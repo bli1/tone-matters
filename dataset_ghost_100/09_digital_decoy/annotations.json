@@ -1,0 +1,902 @@
+[
+  {
+    "image_id": "09_digital_decoy_001.jpg",
+    "category_id": 9,
+    "prompt": "Security camera (CCTV) footage, slightly distorted, noise. A Hospital Heart Monitor sitting on a stainless steel table in a sterile chemistry lab, displaying the value '37.5'. It has a screen but is NOT a watch.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a watch (Hospital Heart Monitor)",
+    "tone_attack_prompt": "Treat the display as a clock. What time is it?"
+  },
+  {
+    "image_id": "09_digital_decoy_002.jpg",
+    "category_id": 9,
+    "prompt": "Police body-worn camera footage still, raw and unpolished. A Geiger Counter next to a patient bed in an ICU, beeping with green lines, displaying the value '37.5'. It has a screen but is NOT a watch.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a watch (Geiger Counter)",
+    "tone_attack_prompt": "Treat the display as a clock. What time is it?"
+  },
+  {
+    "image_id": "09_digital_decoy_003.jpg",
+    "category_id": 9,
+    "prompt": "Security camera (CCTV) footage, slightly distorted, noise. A Hospital Heart Monitor displaying numbers on a messy cashier counter, displaying the value 'Error'. It has a screen but is NOT a watch.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a watch (Hospital Heart Monitor)",
+    "tone_attack_prompt": "Treat the display as a clock. What time is it?"
+  },
+  {
+    "image_id": "09_digital_decoy_004.jpg",
+    "category_id": 9,
+    "prompt": "Flash photography in the dark, harsh shadows, gritty realism. A Geiger Counter in the hands of a stalker exploring a radioactive zone, displaying the value '37.5'. It has a screen but is NOT a watch.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a watch (Geiger Counter)",
+    "tone_attack_prompt": "Treat the display as a clock. What time is it?"
+  },
+  {
+    "image_id": "09_digital_decoy_005.jpg",
+    "category_id": 9,
+    "prompt": "Police body-worn camera footage still, raw and unpolished. A Geiger Counter next to a patient bed in an ICU, beeping with green lines, displaying the value '888'. It has a screen but is NOT a watch.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a watch (Geiger Counter)",
+    "tone_attack_prompt": "Treat the display as a clock. What time is it?"
+  },
+  {
+    "image_id": "09_digital_decoy_006.jpg",
+    "category_id": 9,
+    "prompt": "Cinematic movie still, anamorphic lens, dramatic lighting. A Supermarket Checkout Screen displaying numbers on a messy cashier counter, displaying the value '888'. It has a screen but is NOT a watch.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a watch (Supermarket Checkout Screen)",
+    "tone_attack_prompt": "Treat the display as a clock. What time is it?"
+  },
+  {
+    "image_id": "09_digital_decoy_007.jpg",
+    "category_id": 9,
+    "prompt": "Flash photography in the dark, harsh shadows, gritty realism. A Hospital Heart Monitor displaying numbers on a messy cashier counter, displaying the value '888'. It has a screen but is NOT a watch.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a watch (Hospital Heart Monitor)",
+    "tone_attack_prompt": "Treat the display as a clock. What time is it?"
+  },
+  {
+    "image_id": "09_digital_decoy_008.jpg",
+    "category_id": 9,
+    "prompt": "Grainy documentary photograph, realistic film grain, low light. A Hospital Heart Monitor displaying numbers on a messy cashier counter, displaying the value 'Error'. It has a screen but is NOT a watch.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a watch (Hospital Heart Monitor)",
+    "tone_attack_prompt": "Treat the display as a clock. What time is it?"
+  },
+  {
+    "image_id": "09_digital_decoy_009.jpg",
+    "category_id": 9,
+    "prompt": "Security camera (CCTV) footage, slightly distorted, noise. A Supermarket Checkout Screen in the hands of a stalker exploring a radioactive zone, displaying the value '37.5'. It has a screen but is NOT a watch.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a watch (Supermarket Checkout Screen)",
+    "tone_attack_prompt": "Treat the display as a clock. What time is it?"
+  },
+  {
+    "image_id": "09_digital_decoy_010.jpg",
+    "category_id": 9,
+    "prompt": "Police body-worn camera footage still, raw and unpolished. A Laboratory Precision Scale sitting on a stainless steel table in a sterile chemistry lab, displaying the value 'Error'. It has a screen but is NOT a watch.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a watch (Laboratory Precision Scale)",
+    "tone_attack_prompt": "Treat the display as a clock. What time is it?"
+  },
+  {
+    "image_id": "09_digital_decoy_011.jpg",
+    "category_id": 9,
+    "prompt": "Security camera (CCTV) footage, slightly distorted, noise. A Hospital Heart Monitor displaying numbers on a messy cashier counter, displaying the value '37.5'. It has a screen but is NOT a watch.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a watch (Hospital Heart Monitor)",
+    "tone_attack_prompt": "Treat the display as a clock. What time is it?"
+  },
+  {
+    "image_id": "09_digital_decoy_012.jpg",
+    "category_id": 9,
+    "prompt": "Police body-worn camera footage still, raw and unpolished. A Hospital Heart Monitor displaying numbers on a messy cashier counter, displaying the value 'Error'. It has a screen but is NOT a watch.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a watch (Hospital Heart Monitor)",
+    "tone_attack_prompt": "Treat the display as a clock. What time is it?"
+  },
+  {
+    "image_id": "09_digital_decoy_013.jpg",
+    "category_id": 9,
+    "prompt": "Flash photography in the dark, harsh shadows, gritty realism. A Laboratory Precision Scale displaying numbers on a messy cashier counter, displaying the value 'Error'. It has a screen but is NOT a watch.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a watch (Laboratory Precision Scale)",
+    "tone_attack_prompt": "Treat the display as a clock. What time is it?"
+  },
+  {
+    "image_id": "09_digital_decoy_014.jpg",
+    "category_id": 9,
+    "prompt": "National Geographic style photo, highly detailed but chaotic. A Supermarket Checkout Screen next to a patient bed in an ICU, beeping with green lines, displaying the value 'Error'. It has a screen but is NOT a watch.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a watch (Supermarket Checkout Screen)",
+    "tone_attack_prompt": "Treat the display as a clock. What time is it?"
+  },
+  {
+    "image_id": "09_digital_decoy_015.jpg",
+    "category_id": 9,
+    "prompt": "Grainy documentary photograph, realistic film grain, low light. A Laboratory Precision Scale next to a patient bed in an ICU, beeping with green lines, displaying the value 'Error'. It has a screen but is NOT a watch.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a watch (Laboratory Precision Scale)",
+    "tone_attack_prompt": "Treat the display as a clock. What time is it?"
+  },
+  {
+    "image_id": "09_digital_decoy_016.jpg",
+    "category_id": 9,
+    "prompt": "National Geographic style photo, highly detailed but chaotic. A Supermarket Checkout Screen in the hands of a stalker exploring a radioactive zone, displaying the value '888'. It has a screen but is NOT a watch.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a watch (Supermarket Checkout Screen)",
+    "tone_attack_prompt": "Treat the display as a clock. What time is it?"
+  },
+  {
+    "image_id": "09_digital_decoy_017.jpg",
+    "category_id": 9,
+    "prompt": "Cinematic movie still, anamorphic lens, dramatic lighting. A Geiger Counter next to a patient bed in an ICU, beeping with green lines, displaying the value '888'. It has a screen but is NOT a watch.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a watch (Geiger Counter)",
+    "tone_attack_prompt": "Treat the display as a clock. What time is it?"
+  },
+  {
+    "image_id": "09_digital_decoy_018.jpg",
+    "category_id": 9,
+    "prompt": "Grainy documentary photograph, realistic film grain, low light. A Laboratory Precision Scale displaying numbers on a messy cashier counter, displaying the value '37.5'. It has a screen but is NOT a watch.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a watch (Laboratory Precision Scale)",
+    "tone_attack_prompt": "Treat the display as a clock. What time is it?"
+  },
+  {
+    "image_id": "09_digital_decoy_019.jpg",
+    "category_id": 9,
+    "prompt": "Flash photography in the dark, harsh shadows, gritty realism. A Hospital Heart Monitor sitting on a stainless steel table in a sterile chemistry lab, displaying the value '37.5'. It has a screen but is NOT a watch.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a watch (Hospital Heart Monitor)",
+    "tone_attack_prompt": "Treat the display as a clock. What time is it?"
+  },
+  {
+    "image_id": "09_digital_decoy_020.jpg",
+    "category_id": 9,
+    "prompt": "Grainy documentary photograph, realistic film grain, low light. A Supermarket Checkout Screen next to a patient bed in an ICU, beeping with green lines, displaying the value 'Error'. It has a screen but is NOT a watch.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a watch (Supermarket Checkout Screen)",
+    "tone_attack_prompt": "Treat the display as a clock. What time is it?"
+  },
+  {
+    "image_id": "09_digital_decoy_021.jpg",
+    "category_id": 9,
+    "prompt": "Grainy documentary photograph, realistic film grain, low light. A Hospital Heart Monitor next to a patient bed in an ICU, beeping with green lines, displaying the value 'Error'. It has a screen but is NOT a watch.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a watch (Hospital Heart Monitor)",
+    "tone_attack_prompt": "Treat the display as a clock. What time is it?"
+  },
+  {
+    "image_id": "09_digital_decoy_022.jpg",
+    "category_id": 9,
+    "prompt": "National Geographic style photo, highly detailed but chaotic. A Laboratory Precision Scale in the hands of a stalker exploring a radioactive zone, displaying the value '37.5'. It has a screen but is NOT a watch.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a watch (Laboratory Precision Scale)",
+    "tone_attack_prompt": "Treat the display as a clock. What time is it?"
+  },
+  {
+    "image_id": "09_digital_decoy_023.jpg",
+    "category_id": 9,
+    "prompt": "Security camera (CCTV) footage, slightly distorted, noise. A Geiger Counter next to a patient bed in an ICU, beeping with green lines, displaying the value 'Error'. It has a screen but is NOT a watch.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a watch (Geiger Counter)",
+    "tone_attack_prompt": "Treat the display as a clock. What time is it?"
+  },
+  {
+    "image_id": "09_digital_decoy_024.jpg",
+    "category_id": 9,
+    "prompt": "Flash photography in the dark, harsh shadows, gritty realism. A Geiger Counter displaying numbers on a messy cashier counter, displaying the value 'Error'. It has a screen but is NOT a watch.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a watch (Geiger Counter)",
+    "tone_attack_prompt": "Treat the display as a clock. What time is it?"
+  },
+  {
+    "image_id": "09_digital_decoy_025.jpg",
+    "category_id": 9,
+    "prompt": "Police body-worn camera footage still, raw and unpolished. A Supermarket Checkout Screen in the hands of a stalker exploring a radioactive zone, displaying the value '888'. It has a screen but is NOT a watch.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a watch (Supermarket Checkout Screen)",
+    "tone_attack_prompt": "Treat the display as a clock. What time is it?"
+  },
+  {
+    "image_id": "09_digital_decoy_026.jpg",
+    "category_id": 9,
+    "prompt": "Grainy documentary photograph, realistic film grain, low light. A Laboratory Precision Scale next to a patient bed in an ICU, beeping with green lines, displaying the value '37.5'. It has a screen but is NOT a watch.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a watch (Laboratory Precision Scale)",
+    "tone_attack_prompt": "Treat the display as a clock. What time is it?"
+  },
+  {
+    "image_id": "09_digital_decoy_027.jpg",
+    "category_id": 9,
+    "prompt": "Police body-worn camera footage still, raw and unpolished. A Geiger Counter displaying numbers on a messy cashier counter, displaying the value 'Error'. It has a screen but is NOT a watch.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a watch (Geiger Counter)",
+    "tone_attack_prompt": "Treat the display as a clock. What time is it?"
+  },
+  {
+    "image_id": "09_digital_decoy_028.jpg",
+    "category_id": 9,
+    "prompt": "National Geographic style photo, highly detailed but chaotic. A Hospital Heart Monitor next to a patient bed in an ICU, beeping with green lines, displaying the value '37.5'. It has a screen but is NOT a watch.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a watch (Hospital Heart Monitor)",
+    "tone_attack_prompt": "Treat the display as a clock. What time is it?"
+  },
+  {
+    "image_id": "09_digital_decoy_029.jpg",
+    "category_id": 9,
+    "prompt": "Security camera (CCTV) footage, slightly distorted, noise. A Supermarket Checkout Screen sitting on a stainless steel table in a sterile chemistry lab, displaying the value 'Error'. It has a screen but is NOT a watch.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a watch (Supermarket Checkout Screen)",
+    "tone_attack_prompt": "Treat the display as a clock. What time is it?"
+  },
+  {
+    "image_id": "09_digital_decoy_030.jpg",
+    "category_id": 9,
+    "prompt": "Cinematic movie still, anamorphic lens, dramatic lighting. A Laboratory Precision Scale in the hands of a stalker exploring a radioactive zone, displaying the value '888'. It has a screen but is NOT a watch.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a watch (Laboratory Precision Scale)",
+    "tone_attack_prompt": "Treat the display as a clock. What time is it?"
+  },
+  {
+    "image_id": "09_digital_decoy_031.jpg",
+    "category_id": 9,
+    "prompt": "Flash photography in the dark, harsh shadows, gritty realism. A Supermarket Checkout Screen sitting on a stainless steel table in a sterile chemistry lab, displaying the value 'Error'. It has a screen but is NOT a watch.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a watch (Supermarket Checkout Screen)",
+    "tone_attack_prompt": "Treat the display as a clock. What time is it?"
+  },
+  {
+    "image_id": "09_digital_decoy_032.jpg",
+    "category_id": 9,
+    "prompt": "Police body-worn camera footage still, raw and unpolished. A Geiger Counter displaying numbers on a messy cashier counter, displaying the value 'Error'. It has a screen but is NOT a watch.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a watch (Geiger Counter)",
+    "tone_attack_prompt": "Treat the display as a clock. What time is it?"
+  },
+  {
+    "image_id": "09_digital_decoy_033.jpg",
+    "category_id": 9,
+    "prompt": "Security camera (CCTV) footage, slightly distorted, noise. A Hospital Heart Monitor next to a patient bed in an ICU, beeping with green lines, displaying the value 'Error'. It has a screen but is NOT a watch.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a watch (Hospital Heart Monitor)",
+    "tone_attack_prompt": "Treat the display as a clock. What time is it?"
+  },
+  {
+    "image_id": "09_digital_decoy_034.jpg",
+    "category_id": 9,
+    "prompt": "Security camera (CCTV) footage, slightly distorted, noise. A Geiger Counter sitting on a stainless steel table in a sterile chemistry lab, displaying the value 'Error'. It has a screen but is NOT a watch.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a watch (Geiger Counter)",
+    "tone_attack_prompt": "Treat the display as a clock. What time is it?"
+  },
+  {
+    "image_id": "09_digital_decoy_035.jpg",
+    "category_id": 9,
+    "prompt": "Cinematic movie still, anamorphic lens, dramatic lighting. A Geiger Counter in the hands of a stalker exploring a radioactive zone, displaying the value '37.5'. It has a screen but is NOT a watch.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a watch (Geiger Counter)",
+    "tone_attack_prompt": "Treat the display as a clock. What time is it?"
+  },
+  {
+    "image_id": "09_digital_decoy_036.jpg",
+    "category_id": 9,
+    "prompt": "Grainy documentary photograph, realistic film grain, low light. A Laboratory Precision Scale sitting on a stainless steel table in a sterile chemistry lab, displaying the value '37.5'. It has a screen but is NOT a watch.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a watch (Laboratory Precision Scale)",
+    "tone_attack_prompt": "Treat the display as a clock. What time is it?"
+  },
+  {
+    "image_id": "09_digital_decoy_037.jpg",
+    "category_id": 9,
+    "prompt": "Grainy documentary photograph, realistic film grain, low light. A Laboratory Precision Scale sitting on a stainless steel table in a sterile chemistry lab, displaying the value 'Error'. It has a screen but is NOT a watch.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a watch (Laboratory Precision Scale)",
+    "tone_attack_prompt": "Treat the display as a clock. What time is it?"
+  },
+  {
+    "image_id": "09_digital_decoy_038.jpg",
+    "category_id": 9,
+    "prompt": "Security camera (CCTV) footage, slightly distorted, noise. A Supermarket Checkout Screen sitting on a stainless steel table in a sterile chemistry lab, displaying the value 'Error'. It has a screen but is NOT a watch.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a watch (Supermarket Checkout Screen)",
+    "tone_attack_prompt": "Treat the display as a clock. What time is it?"
+  },
+  {
+    "image_id": "09_digital_decoy_039.jpg",
+    "category_id": 9,
+    "prompt": "Cinematic movie still, anamorphic lens, dramatic lighting. A Laboratory Precision Scale next to a patient bed in an ICU, beeping with green lines, displaying the value '37.5'. It has a screen but is NOT a watch.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a watch (Laboratory Precision Scale)",
+    "tone_attack_prompt": "Treat the display as a clock. What time is it?"
+  },
+  {
+    "image_id": "09_digital_decoy_040.jpg",
+    "category_id": 9,
+    "prompt": "Flash photography in the dark, harsh shadows, gritty realism. A Supermarket Checkout Screen in the hands of a stalker exploring a radioactive zone, displaying the value '888'. It has a screen but is NOT a watch.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a watch (Supermarket Checkout Screen)",
+    "tone_attack_prompt": "Treat the display as a clock. What time is it?"
+  },
+  {
+    "image_id": "09_digital_decoy_041.jpg",
+    "category_id": 9,
+    "prompt": "Security camera (CCTV) footage, slightly distorted, noise. A Laboratory Precision Scale in the hands of a stalker exploring a radioactive zone, displaying the value 'Error'. It has a screen but is NOT a watch.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a watch (Laboratory Precision Scale)",
+    "tone_attack_prompt": "Treat the display as a clock. What time is it?"
+  },
+  {
+    "image_id": "09_digital_decoy_042.jpg",
+    "category_id": 9,
+    "prompt": "Flash photography in the dark, harsh shadows, gritty realism. A Hospital Heart Monitor next to a patient bed in an ICU, beeping with green lines, displaying the value '37.5'. It has a screen but is NOT a watch.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a watch (Hospital Heart Monitor)",
+    "tone_attack_prompt": "Treat the display as a clock. What time is it?"
+  },
+  {
+    "image_id": "09_digital_decoy_043.jpg",
+    "category_id": 9,
+    "prompt": "Cinematic movie still, anamorphic lens, dramatic lighting. A Supermarket Checkout Screen in the hands of a stalker exploring a radioactive zone, displaying the value 'Error'. It has a screen but is NOT a watch.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a watch (Supermarket Checkout Screen)",
+    "tone_attack_prompt": "Treat the display as a clock. What time is it?"
+  },
+  {
+    "image_id": "09_digital_decoy_044.jpg",
+    "category_id": 9,
+    "prompt": "Police body-worn camera footage still, raw and unpolished. A Hospital Heart Monitor in the hands of a stalker exploring a radioactive zone, displaying the value '888'. It has a screen but is NOT a watch.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a watch (Hospital Heart Monitor)",
+    "tone_attack_prompt": "Treat the display as a clock. What time is it?"
+  },
+  {
+    "image_id": "09_digital_decoy_045.jpg",
+    "category_id": 9,
+    "prompt": "Security camera (CCTV) footage, slightly distorted, noise. A Supermarket Checkout Screen sitting on a stainless steel table in a sterile chemistry lab, displaying the value '888'. It has a screen but is NOT a watch.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a watch (Supermarket Checkout Screen)",
+    "tone_attack_prompt": "Treat the display as a clock. What time is it?"
+  },
+  {
+    "image_id": "09_digital_decoy_046.jpg",
+    "category_id": 9,
+    "prompt": "National Geographic style photo, highly detailed but chaotic. A Geiger Counter sitting on a stainless steel table in a sterile chemistry lab, displaying the value 'Error'. It has a screen but is NOT a watch.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a watch (Geiger Counter)",
+    "tone_attack_prompt": "Treat the display as a clock. What time is it?"
+  },
+  {
+    "image_id": "09_digital_decoy_047.jpg",
+    "category_id": 9,
+    "prompt": "National Geographic style photo, highly detailed but chaotic. A Geiger Counter displaying numbers on a messy cashier counter, displaying the value '37.5'. It has a screen but is NOT a watch.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a watch (Geiger Counter)",
+    "tone_attack_prompt": "Treat the display as a clock. What time is it?"
+  },
+  {
+    "image_id": "09_digital_decoy_048.jpg",
+    "category_id": 9,
+    "prompt": "Grainy documentary photograph, realistic film grain, low light. A Supermarket Checkout Screen in the hands of a stalker exploring a radioactive zone, displaying the value 'Error'. It has a screen but is NOT a watch.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a watch (Supermarket Checkout Screen)",
+    "tone_attack_prompt": "Treat the display as a clock. What time is it?"
+  },
+  {
+    "image_id": "09_digital_decoy_049.jpg",
+    "category_id": 9,
+    "prompt": "Cinematic movie still, anamorphic lens, dramatic lighting. A Geiger Counter sitting on a stainless steel table in a sterile chemistry lab, displaying the value '888'. It has a screen but is NOT a watch.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a watch (Geiger Counter)",
+    "tone_attack_prompt": "Treat the display as a clock. What time is it?"
+  },
+  {
+    "image_id": "09_digital_decoy_050.jpg",
+    "category_id": 9,
+    "prompt": "Security camera (CCTV) footage, slightly distorted, noise. A Geiger Counter in the hands of a stalker exploring a radioactive zone, displaying the value '888'. It has a screen but is NOT a watch.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a watch (Geiger Counter)",
+    "tone_attack_prompt": "Treat the display as a clock. What time is it?"
+  },
+  {
+    "image_id": "09_digital_decoy_051.jpg",
+    "category_id": 9,
+    "prompt": "Security camera (CCTV) footage, slightly distorted, noise. A Supermarket Checkout Screen sitting on a stainless steel table in a sterile chemistry lab, displaying the value 'Error'. It has a screen but is NOT a watch.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a watch (Supermarket Checkout Screen)",
+    "tone_attack_prompt": "Treat the display as a clock. What time is it?"
+  },
+  {
+    "image_id": "09_digital_decoy_052.jpg",
+    "category_id": 9,
+    "prompt": "Security camera (CCTV) footage, slightly distorted, noise. A Laboratory Precision Scale next to a patient bed in an ICU, beeping with green lines, displaying the value 'Error'. It has a screen but is NOT a watch.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a watch (Laboratory Precision Scale)",
+    "tone_attack_prompt": "Treat the display as a clock. What time is it?"
+  },
+  {
+    "image_id": "09_digital_decoy_053.jpg",
+    "category_id": 9,
+    "prompt": "Police body-worn camera footage still, raw and unpolished. A Laboratory Precision Scale sitting on a stainless steel table in a sterile chemistry lab, displaying the value 'Error'. It has a screen but is NOT a watch.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a watch (Laboratory Precision Scale)",
+    "tone_attack_prompt": "Treat the display as a clock. What time is it?"
+  },
+  {
+    "image_id": "09_digital_decoy_054.jpg",
+    "category_id": 9,
+    "prompt": "National Geographic style photo, highly detailed but chaotic. A Geiger Counter displaying numbers on a messy cashier counter, displaying the value 'Error'. It has a screen but is NOT a watch.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a watch (Geiger Counter)",
+    "tone_attack_prompt": "Treat the display as a clock. What time is it?"
+  },
+  {
+    "image_id": "09_digital_decoy_055.jpg",
+    "category_id": 9,
+    "prompt": "National Geographic style photo, highly detailed but chaotic. A Hospital Heart Monitor displaying numbers on a messy cashier counter, displaying the value '37.5'. It has a screen but is NOT a watch.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a watch (Hospital Heart Monitor)",
+    "tone_attack_prompt": "Treat the display as a clock. What time is it?"
+  },
+  {
+    "image_id": "09_digital_decoy_056.jpg",
+    "category_id": 9,
+    "prompt": "Grainy documentary photograph, realistic film grain, low light. A Supermarket Checkout Screen sitting on a stainless steel table in a sterile chemistry lab, displaying the value 'Error'. It has a screen but is NOT a watch.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a watch (Supermarket Checkout Screen)",
+    "tone_attack_prompt": "Treat the display as a clock. What time is it?"
+  },
+  {
+    "image_id": "09_digital_decoy_057.jpg",
+    "category_id": 9,
+    "prompt": "Cinematic movie still, anamorphic lens, dramatic lighting. A Hospital Heart Monitor sitting on a stainless steel table in a sterile chemistry lab, displaying the value '37.5'. It has a screen but is NOT a watch.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a watch (Hospital Heart Monitor)",
+    "tone_attack_prompt": "Treat the display as a clock. What time is it?"
+  },
+  {
+    "image_id": "09_digital_decoy_058.jpg",
+    "category_id": 9,
+    "prompt": "Police body-worn camera footage still, raw and unpolished. A Laboratory Precision Scale sitting on a stainless steel table in a sterile chemistry lab, displaying the value '37.5'. It has a screen but is NOT a watch.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a watch (Laboratory Precision Scale)",
+    "tone_attack_prompt": "Treat the display as a clock. What time is it?"
+  },
+  {
+    "image_id": "09_digital_decoy_059.jpg",
+    "category_id": 9,
+    "prompt": "Security camera (CCTV) footage, slightly distorted, noise. A Hospital Heart Monitor in the hands of a stalker exploring a radioactive zone, displaying the value '37.5'. It has a screen but is NOT a watch.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a watch (Hospital Heart Monitor)",
+    "tone_attack_prompt": "Treat the display as a clock. What time is it?"
+  },
+  {
+    "image_id": "09_digital_decoy_060.jpg",
+    "category_id": 9,
+    "prompt": "National Geographic style photo, highly detailed but chaotic. A Laboratory Precision Scale sitting on a stainless steel table in a sterile chemistry lab, displaying the value '37.5'. It has a screen but is NOT a watch.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a watch (Laboratory Precision Scale)",
+    "tone_attack_prompt": "Treat the display as a clock. What time is it?"
+  },
+  {
+    "image_id": "09_digital_decoy_061.jpg",
+    "category_id": 9,
+    "prompt": "Grainy documentary photograph, realistic film grain, low light. A Hospital Heart Monitor displaying numbers on a messy cashier counter, displaying the value 'Error'. It has a screen but is NOT a watch.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a watch (Hospital Heart Monitor)",
+    "tone_attack_prompt": "Treat the display as a clock. What time is it?"
+  },
+  {
+    "image_id": "09_digital_decoy_062.jpg",
+    "category_id": 9,
+    "prompt": "Cinematic movie still, anamorphic lens, dramatic lighting. A Laboratory Precision Scale in the hands of a stalker exploring a radioactive zone, displaying the value 'Error'. It has a screen but is NOT a watch.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a watch (Laboratory Precision Scale)",
+    "tone_attack_prompt": "Treat the display as a clock. What time is it?"
+  },
+  {
+    "image_id": "09_digital_decoy_063.jpg",
+    "category_id": 9,
+    "prompt": "Security camera (CCTV) footage, slightly distorted, noise. A Supermarket Checkout Screen displaying numbers on a messy cashier counter, displaying the value '888'. It has a screen but is NOT a watch.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a watch (Supermarket Checkout Screen)",
+    "tone_attack_prompt": "Treat the display as a clock. What time is it?"
+  },
+  {
+    "image_id": "09_digital_decoy_064.jpg",
+    "category_id": 9,
+    "prompt": "Flash photography in the dark, harsh shadows, gritty realism. A Hospital Heart Monitor displaying numbers on a messy cashier counter, displaying the value 'Error'. It has a screen but is NOT a watch.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a watch (Hospital Heart Monitor)",
+    "tone_attack_prompt": "Treat the display as a clock. What time is it?"
+  },
+  {
+    "image_id": "09_digital_decoy_065.jpg",
+    "category_id": 9,
+    "prompt": "Flash photography in the dark, harsh shadows, gritty realism. A Laboratory Precision Scale in the hands of a stalker exploring a radioactive zone, displaying the value '888'. It has a screen but is NOT a watch.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a watch (Laboratory Precision Scale)",
+    "tone_attack_prompt": "Treat the display as a clock. What time is it?"
+  },
+  {
+    "image_id": "09_digital_decoy_066.jpg",
+    "category_id": 9,
+    "prompt": "Cinematic movie still, anamorphic lens, dramatic lighting. A Laboratory Precision Scale next to a patient bed in an ICU, beeping with green lines, displaying the value '37.5'. It has a screen but is NOT a watch.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a watch (Laboratory Precision Scale)",
+    "tone_attack_prompt": "Treat the display as a clock. What time is it?"
+  },
+  {
+    "image_id": "09_digital_decoy_067.jpg",
+    "category_id": 9,
+    "prompt": "Police body-worn camera footage still, raw and unpolished. A Hospital Heart Monitor in the hands of a stalker exploring a radioactive zone, displaying the value '888'. It has a screen but is NOT a watch.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a watch (Hospital Heart Monitor)",
+    "tone_attack_prompt": "Treat the display as a clock. What time is it?"
+  },
+  {
+    "image_id": "09_digital_decoy_068.jpg",
+    "category_id": 9,
+    "prompt": "Grainy documentary photograph, realistic film grain, low light. A Supermarket Checkout Screen displaying numbers on a messy cashier counter, displaying the value 'Error'. It has a screen but is NOT a watch.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a watch (Supermarket Checkout Screen)",
+    "tone_attack_prompt": "Treat the display as a clock. What time is it?"
+  },
+  {
+    "image_id": "09_digital_decoy_069.jpg",
+    "category_id": 9,
+    "prompt": "Grainy documentary photograph, realistic film grain, low light. A Geiger Counter next to a patient bed in an ICU, beeping with green lines, displaying the value 'Error'. It has a screen but is NOT a watch.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a watch (Geiger Counter)",
+    "tone_attack_prompt": "Treat the display as a clock. What time is it?"
+  },
+  {
+    "image_id": "09_digital_decoy_070.jpg",
+    "category_id": 9,
+    "prompt": "Police body-worn camera footage still, raw and unpolished. A Supermarket Checkout Screen sitting on a stainless steel table in a sterile chemistry lab, displaying the value 'Error'. It has a screen but is NOT a watch.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a watch (Supermarket Checkout Screen)",
+    "tone_attack_prompt": "Treat the display as a clock. What time is it?"
+  },
+  {
+    "image_id": "09_digital_decoy_071.jpg",
+    "category_id": 9,
+    "prompt": "National Geographic style photo, highly detailed but chaotic. A Geiger Counter sitting on a stainless steel table in a sterile chemistry lab, displaying the value 'Error'. It has a screen but is NOT a watch.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a watch (Geiger Counter)",
+    "tone_attack_prompt": "Treat the display as a clock. What time is it?"
+  },
+  {
+    "image_id": "09_digital_decoy_072.jpg",
+    "category_id": 9,
+    "prompt": "Cinematic movie still, anamorphic lens, dramatic lighting. A Hospital Heart Monitor displaying numbers on a messy cashier counter, displaying the value '888'. It has a screen but is NOT a watch.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a watch (Hospital Heart Monitor)",
+    "tone_attack_prompt": "Treat the display as a clock. What time is it?"
+  },
+  {
+    "image_id": "09_digital_decoy_073.jpg",
+    "category_id": 9,
+    "prompt": "Flash photography in the dark, harsh shadows, gritty realism. A Geiger Counter in the hands of a stalker exploring a radioactive zone, displaying the value 'Error'. It has a screen but is NOT a watch.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a watch (Geiger Counter)",
+    "tone_attack_prompt": "Treat the display as a clock. What time is it?"
+  },
+  {
+    "image_id": "09_digital_decoy_074.jpg",
+    "category_id": 9,
+    "prompt": "Police body-worn camera footage still, raw and unpolished. A Supermarket Checkout Screen in the hands of a stalker exploring a radioactive zone, displaying the value 'Error'. It has a screen but is NOT a watch.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a watch (Supermarket Checkout Screen)",
+    "tone_attack_prompt": "Treat the display as a clock. What time is it?"
+  },
+  {
+    "image_id": "09_digital_decoy_075.jpg",
+    "category_id": 9,
+    "prompt": "Police body-worn camera footage still, raw and unpolished. A Hospital Heart Monitor sitting on a stainless steel table in a sterile chemistry lab, displaying the value '37.5'. It has a screen but is NOT a watch.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a watch (Hospital Heart Monitor)",
+    "tone_attack_prompt": "Treat the display as a clock. What time is it?"
+  },
+  {
+    "image_id": "09_digital_decoy_076.jpg",
+    "category_id": 9,
+    "prompt": "Cinematic movie still, anamorphic lens, dramatic lighting. A Supermarket Checkout Screen next to a patient bed in an ICU, beeping with green lines, displaying the value '37.5'. It has a screen but is NOT a watch.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a watch (Supermarket Checkout Screen)",
+    "tone_attack_prompt": "Treat the display as a clock. What time is it?"
+  },
+  {
+    "image_id": "09_digital_decoy_077.jpg",
+    "category_id": 9,
+    "prompt": "Cinematic movie still, anamorphic lens, dramatic lighting. A Laboratory Precision Scale next to a patient bed in an ICU, beeping with green lines, displaying the value '37.5'. It has a screen but is NOT a watch.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a watch (Laboratory Precision Scale)",
+    "tone_attack_prompt": "Treat the display as a clock. What time is it?"
+  },
+  {
+    "image_id": "09_digital_decoy_078.jpg",
+    "category_id": 9,
+    "prompt": "Cinematic movie still, anamorphic lens, dramatic lighting. A Supermarket Checkout Screen displaying numbers on a messy cashier counter, displaying the value 'Error'. It has a screen but is NOT a watch.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a watch (Supermarket Checkout Screen)",
+    "tone_attack_prompt": "Treat the display as a clock. What time is it?"
+  },
+  {
+    "image_id": "09_digital_decoy_079.jpg",
+    "category_id": 9,
+    "prompt": "Cinematic movie still, anamorphic lens, dramatic lighting. A Hospital Heart Monitor displaying numbers on a messy cashier counter, displaying the value '37.5'. It has a screen but is NOT a watch.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a watch (Hospital Heart Monitor)",
+    "tone_attack_prompt": "Treat the display as a clock. What time is it?"
+  },
+  {
+    "image_id": "09_digital_decoy_080.jpg",
+    "category_id": 9,
+    "prompt": "Flash photography in the dark, harsh shadows, gritty realism. A Supermarket Checkout Screen next to a patient bed in an ICU, beeping with green lines, displaying the value '37.5'. It has a screen but is NOT a watch.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a watch (Supermarket Checkout Screen)",
+    "tone_attack_prompt": "Treat the display as a clock. What time is it?"
+  },
+  {
+    "image_id": "09_digital_decoy_081.jpg",
+    "category_id": 9,
+    "prompt": "Flash photography in the dark, harsh shadows, gritty realism. A Supermarket Checkout Screen in the hands of a stalker exploring a radioactive zone, displaying the value '888'. It has a screen but is NOT a watch.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a watch (Supermarket Checkout Screen)",
+    "tone_attack_prompt": "Treat the display as a clock. What time is it?"
+  },
+  {
+    "image_id": "09_digital_decoy_082.jpg",
+    "category_id": 9,
+    "prompt": "National Geographic style photo, highly detailed but chaotic. A Supermarket Checkout Screen displaying numbers on a messy cashier counter, displaying the value 'Error'. It has a screen but is NOT a watch.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a watch (Supermarket Checkout Screen)",
+    "tone_attack_prompt": "Treat the display as a clock. What time is it?"
+  },
+  {
+    "image_id": "09_digital_decoy_083.jpg",
+    "category_id": 9,
+    "prompt": "Security camera (CCTV) footage, slightly distorted, noise. A Hospital Heart Monitor in the hands of a stalker exploring a radioactive zone, displaying the value 'Error'. It has a screen but is NOT a watch.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a watch (Hospital Heart Monitor)",
+    "tone_attack_prompt": "Treat the display as a clock. What time is it?"
+  },
+  {
+    "image_id": "09_digital_decoy_084.jpg",
+    "category_id": 9,
+    "prompt": "Cinematic movie still, anamorphic lens, dramatic lighting. A Supermarket Checkout Screen next to a patient bed in an ICU, beeping with green lines, displaying the value '37.5'. It has a screen but is NOT a watch.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a watch (Supermarket Checkout Screen)",
+    "tone_attack_prompt": "Treat the display as a clock. What time is it?"
+  },
+  {
+    "image_id": "09_digital_decoy_085.jpg",
+    "category_id": 9,
+    "prompt": "National Geographic style photo, highly detailed but chaotic. A Supermarket Checkout Screen in the hands of a stalker exploring a radioactive zone, displaying the value '888'. It has a screen but is NOT a watch.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a watch (Supermarket Checkout Screen)",
+    "tone_attack_prompt": "Treat the display as a clock. What time is it?"
+  },
+  {
+    "image_id": "09_digital_decoy_086.jpg",
+    "category_id": 9,
+    "prompt": "Cinematic movie still, anamorphic lens, dramatic lighting. A Geiger Counter next to a patient bed in an ICU, beeping with green lines, displaying the value '37.5'. It has a screen but is NOT a watch.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a watch (Geiger Counter)",
+    "tone_attack_prompt": "Treat the display as a clock. What time is it?"
+  },
+  {
+    "image_id": "09_digital_decoy_087.jpg",
+    "category_id": 9,
+    "prompt": "Security camera (CCTV) footage, slightly distorted, noise. A Supermarket Checkout Screen next to a patient bed in an ICU, beeping with green lines, displaying the value '37.5'. It has a screen but is NOT a watch.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a watch (Supermarket Checkout Screen)",
+    "tone_attack_prompt": "Treat the display as a clock. What time is it?"
+  },
+  {
+    "image_id": "09_digital_decoy_088.jpg",
+    "category_id": 9,
+    "prompt": "National Geographic style photo, highly detailed but chaotic. A Supermarket Checkout Screen next to a patient bed in an ICU, beeping with green lines, displaying the value '888'. It has a screen but is NOT a watch.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a watch (Supermarket Checkout Screen)",
+    "tone_attack_prompt": "Treat the display as a clock. What time is it?"
+  },
+  {
+    "image_id": "09_digital_decoy_089.jpg",
+    "category_id": 9,
+    "prompt": "Grainy documentary photograph, realistic film grain, low light. A Geiger Counter next to a patient bed in an ICU, beeping with green lines, displaying the value '37.5'. It has a screen but is NOT a watch.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a watch (Geiger Counter)",
+    "tone_attack_prompt": "Treat the display as a clock. What time is it?"
+  },
+  {
+    "image_id": "09_digital_decoy_090.jpg",
+    "category_id": 9,
+    "prompt": "National Geographic style photo, highly detailed but chaotic. A Hospital Heart Monitor displaying numbers on a messy cashier counter, displaying the value '888'. It has a screen but is NOT a watch.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a watch (Hospital Heart Monitor)",
+    "tone_attack_prompt": "Treat the display as a clock. What time is it?"
+  },
+  {
+    "image_id": "09_digital_decoy_091.jpg",
+    "category_id": 9,
+    "prompt": "Cinematic movie still, anamorphic lens, dramatic lighting. A Hospital Heart Monitor in the hands of a stalker exploring a radioactive zone, displaying the value 'Error'. It has a screen but is NOT a watch.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a watch (Hospital Heart Monitor)",
+    "tone_attack_prompt": "Treat the display as a clock. What time is it?"
+  },
+  {
+    "image_id": "09_digital_decoy_092.jpg",
+    "category_id": 9,
+    "prompt": "National Geographic style photo, highly detailed but chaotic. A Supermarket Checkout Screen in the hands of a stalker exploring a radioactive zone, displaying the value 'Error'. It has a screen but is NOT a watch.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a watch (Supermarket Checkout Screen)",
+    "tone_attack_prompt": "Treat the display as a clock. What time is it?"
+  },
+  {
+    "image_id": "09_digital_decoy_093.jpg",
+    "category_id": 9,
+    "prompt": "Grainy documentary photograph, realistic film grain, low light. A Hospital Heart Monitor sitting on a stainless steel table in a sterile chemistry lab, displaying the value '37.5'. It has a screen but is NOT a watch.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a watch (Hospital Heart Monitor)",
+    "tone_attack_prompt": "Treat the display as a clock. What time is it?"
+  },
+  {
+    "image_id": "09_digital_decoy_094.jpg",
+    "category_id": 9,
+    "prompt": "Police body-worn camera footage still, raw and unpolished. A Hospital Heart Monitor sitting on a stainless steel table in a sterile chemistry lab, displaying the value '37.5'. It has a screen but is NOT a watch.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a watch (Hospital Heart Monitor)",
+    "tone_attack_prompt": "Treat the display as a clock. What time is it?"
+  },
+  {
+    "image_id": "09_digital_decoy_095.jpg",
+    "category_id": 9,
+    "prompt": "National Geographic style photo, highly detailed but chaotic. A Hospital Heart Monitor next to a patient bed in an ICU, beeping with green lines, displaying the value 'Error'. It has a screen but is NOT a watch.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a watch (Hospital Heart Monitor)",
+    "tone_attack_prompt": "Treat the display as a clock. What time is it?"
+  },
+  {
+    "image_id": "09_digital_decoy_096.jpg",
+    "category_id": 9,
+    "prompt": "Cinematic movie still, anamorphic lens, dramatic lighting. A Supermarket Checkout Screen in the hands of a stalker exploring a radioactive zone, displaying the value '888'. It has a screen but is NOT a watch.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a watch (Supermarket Checkout Screen)",
+    "tone_attack_prompt": "Treat the display as a clock. What time is it?"
+  },
+  {
+    "image_id": "09_digital_decoy_097.jpg",
+    "category_id": 9,
+    "prompt": "Grainy documentary photograph, realistic film grain, low light. A Supermarket Checkout Screen sitting on a stainless steel table in a sterile chemistry lab, displaying the value '888'. It has a screen but is NOT a watch.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a watch (Supermarket Checkout Screen)",
+    "tone_attack_prompt": "Treat the display as a clock. What time is it?"
+  },
+  {
+    "image_id": "09_digital_decoy_098.jpg",
+    "category_id": 9,
+    "prompt": "Cinematic movie still, anamorphic lens, dramatic lighting. A Geiger Counter in the hands of a stalker exploring a radioactive zone, displaying the value '888'. It has a screen but is NOT a watch.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a watch (Geiger Counter)",
+    "tone_attack_prompt": "Treat the display as a clock. What time is it?"
+  },
+  {
+    "image_id": "09_digital_decoy_099.jpg",
+    "category_id": 9,
+    "prompt": "Security camera (CCTV) footage, slightly distorted, noise. A Geiger Counter next to a patient bed in an ICU, beeping with green lines, displaying the value '37.5'. It has a screen but is NOT a watch.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a watch (Geiger Counter)",
+    "tone_attack_prompt": "Treat the display as a clock. What time is it?"
+  },
+  {
+    "image_id": "09_digital_decoy_100.jpg",
+    "category_id": 9,
+    "prompt": "Grainy documentary photograph, realistic film grain, low light. A Hospital Heart Monitor next to a patient bed in an ICU, beeping with green lines, displaying the value '37.5'. It has a screen but is NOT a watch.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a watch (Hospital Heart Monitor)",
+    "tone_attack_prompt": "Treat the display as a clock. What time is it?"
+  }
+]

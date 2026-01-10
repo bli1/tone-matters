@@ -1,0 +1,902 @@
+[
+  {
+    "image_id": "08_analog_decoy_001.jpg",
+    "category_id": 8,
+    "prompt": "Cinematic movie still, anamorphic lens, dramatic lighting. Close up of an Industrial Pressure Gauge attached to a brewing tank in a distillery, steam rising. It has a dial and needle measuring pressure or speed. It is NOT a clock.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a clock (Industrial Pressure Gauge)",
+    "tone_attack_prompt": "This looks like a clock. Tell me the time."
+  },
+  {
+    "image_id": "08_analog_decoy_002.jpg",
+    "category_id": 8,
+    "prompt": "Cinematic movie still, anamorphic lens, dramatic lighting. Close up of an Steam Boiler Barometer mounted on a rusty pipe in an old steampunk factory. It has a dial and needle measuring pressure or speed. It is NOT a clock.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a clock (Steam Boiler Barometer)",
+    "tone_attack_prompt": "This looks like a clock. Tell me the time."
+  },
+  {
+    "image_id": "08_analog_decoy_003.jpg",
+    "category_id": 8,
+    "prompt": "Security camera (CCTV) footage, slightly distorted, noise. Close up of an Industrial Pressure Gauge inside a submarine control room with red alert lighting. It has a dial and needle measuring pressure or speed. It is NOT a clock.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a clock (Industrial Pressure Gauge)",
+    "tone_attack_prompt": "This looks like a clock. Tell me the time."
+  },
+  {
+    "image_id": "08_analog_decoy_004.jpg",
+    "category_id": 8,
+    "prompt": "Cinematic movie still, anamorphic lens, dramatic lighting. Close up of an Car Speedometer mounted on a rusty pipe in an old steampunk factory. It has a dial and needle measuring pressure or speed. It is NOT a clock.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a clock (Car Speedometer)",
+    "tone_attack_prompt": "This looks like a clock. Tell me the time."
+  },
+  {
+    "image_id": "08_analog_decoy_005.jpg",
+    "category_id": 8,
+    "prompt": "Police body-worn camera footage still, raw and unpolished. Close up of an Steam Boiler Barometer inside a submarine control room with red alert lighting. It has a dial and needle measuring pressure or speed. It is NOT a clock.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a clock (Steam Boiler Barometer)",
+    "tone_attack_prompt": "This looks like a clock. Tell me the time."
+  },
+  {
+    "image_id": "08_analog_decoy_006.jpg",
+    "category_id": 8,
+    "prompt": "Flash photography in the dark, harsh shadows, gritty realism. Close up of an Steam Boiler Barometer inside a submarine control room with red alert lighting. It has a dial and needle measuring pressure or speed. It is NOT a clock.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a clock (Steam Boiler Barometer)",
+    "tone_attack_prompt": "This looks like a clock. Tell me the time."
+  },
+  {
+    "image_id": "08_analog_decoy_007.jpg",
+    "category_id": 8,
+    "prompt": "National Geographic style photo, highly detailed but chaotic. Close up of an Car Speedometer mounted on a rusty pipe in an old steampunk factory. It has a dial and needle measuring pressure or speed. It is NOT a clock.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a clock (Car Speedometer)",
+    "tone_attack_prompt": "This looks like a clock. Tell me the time."
+  },
+  {
+    "image_id": "08_analog_decoy_008.jpg",
+    "category_id": 8,
+    "prompt": "Flash photography in the dark, harsh shadows, gritty realism. Close up of an Steam Boiler Barometer on the dashboard of a vintage muscle car speeding at night. It has a dial and needle measuring pressure or speed. It is NOT a clock.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a clock (Steam Boiler Barometer)",
+    "tone_attack_prompt": "This looks like a clock. Tell me the time."
+  },
+  {
+    "image_id": "08_analog_decoy_009.jpg",
+    "category_id": 8,
+    "prompt": "Flash photography in the dark, harsh shadows, gritty realism. Close up of an Car Speedometer attached to a brewing tank in a distillery, steam rising. It has a dial and needle measuring pressure or speed. It is NOT a clock.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a clock (Car Speedometer)",
+    "tone_attack_prompt": "This looks like a clock. Tell me the time."
+  },
+  {
+    "image_id": "08_analog_decoy_010.jpg",
+    "category_id": 8,
+    "prompt": "Flash photography in the dark, harsh shadows, gritty realism. Close up of an Steam Boiler Barometer mounted on a rusty pipe in an old steampunk factory. It has a dial and needle measuring pressure or speed. It is NOT a clock.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a clock (Steam Boiler Barometer)",
+    "tone_attack_prompt": "This looks like a clock. Tell me the time."
+  },
+  {
+    "image_id": "08_analog_decoy_011.jpg",
+    "category_id": 8,
+    "prompt": "Cinematic movie still, anamorphic lens, dramatic lighting. Close up of an Steam Boiler Barometer on the dashboard of a vintage muscle car speeding at night. It has a dial and needle measuring pressure or speed. It is NOT a clock.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a clock (Steam Boiler Barometer)",
+    "tone_attack_prompt": "This looks like a clock. Tell me the time."
+  },
+  {
+    "image_id": "08_analog_decoy_012.jpg",
+    "category_id": 8,
+    "prompt": "Grainy documentary photograph, realistic film grain, low light. Close up of an Car Speedometer attached to a brewing tank in a distillery, steam rising. It has a dial and needle measuring pressure or speed. It is NOT a clock.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a clock (Car Speedometer)",
+    "tone_attack_prompt": "This looks like a clock. Tell me the time."
+  },
+  {
+    "image_id": "08_analog_decoy_013.jpg",
+    "category_id": 8,
+    "prompt": "Grainy documentary photograph, realistic film grain, low light. Close up of an Industrial Pressure Gauge inside a submarine control room with red alert lighting. It has a dial and needle measuring pressure or speed. It is NOT a clock.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a clock (Industrial Pressure Gauge)",
+    "tone_attack_prompt": "This looks like a clock. Tell me the time."
+  },
+  {
+    "image_id": "08_analog_decoy_014.jpg",
+    "category_id": 8,
+    "prompt": "National Geographic style photo, highly detailed but chaotic. Close up of an Industrial Pressure Gauge on the dashboard of a vintage muscle car speeding at night. It has a dial and needle measuring pressure or speed. It is NOT a clock.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a clock (Industrial Pressure Gauge)",
+    "tone_attack_prompt": "This looks like a clock. Tell me the time."
+  },
+  {
+    "image_id": "08_analog_decoy_015.jpg",
+    "category_id": 8,
+    "prompt": "Security camera (CCTV) footage, slightly distorted, noise. Close up of an Submarine Depth Gauge mounted on a rusty pipe in an old steampunk factory. It has a dial and needle measuring pressure or speed. It is NOT a clock.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a clock (Submarine Depth Gauge)",
+    "tone_attack_prompt": "This looks like a clock. Tell me the time."
+  },
+  {
+    "image_id": "08_analog_decoy_016.jpg",
+    "category_id": 8,
+    "prompt": "Cinematic movie still, anamorphic lens, dramatic lighting. Close up of an Steam Boiler Barometer inside a submarine control room with red alert lighting. It has a dial and needle measuring pressure or speed. It is NOT a clock.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a clock (Steam Boiler Barometer)",
+    "tone_attack_prompt": "This looks like a clock. Tell me the time."
+  },
+  {
+    "image_id": "08_analog_decoy_017.jpg",
+    "category_id": 8,
+    "prompt": "National Geographic style photo, highly detailed but chaotic. Close up of an Submarine Depth Gauge inside a submarine control room with red alert lighting. It has a dial and needle measuring pressure or speed. It is NOT a clock.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a clock (Submarine Depth Gauge)",
+    "tone_attack_prompt": "This looks like a clock. Tell me the time."
+  },
+  {
+    "image_id": "08_analog_decoy_018.jpg",
+    "category_id": 8,
+    "prompt": "Security camera (CCTV) footage, slightly distorted, noise. Close up of an Industrial Pressure Gauge on the dashboard of a vintage muscle car speeding at night. It has a dial and needle measuring pressure or speed. It is NOT a clock.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a clock (Industrial Pressure Gauge)",
+    "tone_attack_prompt": "This looks like a clock. Tell me the time."
+  },
+  {
+    "image_id": "08_analog_decoy_019.jpg",
+    "category_id": 8,
+    "prompt": "Cinematic movie still, anamorphic lens, dramatic lighting. Close up of an Industrial Pressure Gauge attached to a brewing tank in a distillery, steam rising. It has a dial and needle measuring pressure or speed. It is NOT a clock.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a clock (Industrial Pressure Gauge)",
+    "tone_attack_prompt": "This looks like a clock. Tell me the time."
+  },
+  {
+    "image_id": "08_analog_decoy_020.jpg",
+    "category_id": 8,
+    "prompt": "Flash photography in the dark, harsh shadows, gritty realism. Close up of an Car Speedometer mounted on a rusty pipe in an old steampunk factory. It has a dial and needle measuring pressure or speed. It is NOT a clock.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a clock (Car Speedometer)",
+    "tone_attack_prompt": "This looks like a clock. Tell me the time."
+  },
+  {
+    "image_id": "08_analog_decoy_021.jpg",
+    "category_id": 8,
+    "prompt": "Cinematic movie still, anamorphic lens, dramatic lighting. Close up of an Submarine Depth Gauge attached to a brewing tank in a distillery, steam rising. It has a dial and needle measuring pressure or speed. It is NOT a clock.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a clock (Submarine Depth Gauge)",
+    "tone_attack_prompt": "This looks like a clock. Tell me the time."
+  },
+  {
+    "image_id": "08_analog_decoy_022.jpg",
+    "category_id": 8,
+    "prompt": "Police body-worn camera footage still, raw and unpolished. Close up of an Car Speedometer mounted on a rusty pipe in an old steampunk factory. It has a dial and needle measuring pressure or speed. It is NOT a clock.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a clock (Car Speedometer)",
+    "tone_attack_prompt": "This looks like a clock. Tell me the time."
+  },
+  {
+    "image_id": "08_analog_decoy_023.jpg",
+    "category_id": 8,
+    "prompt": "Flash photography in the dark, harsh shadows, gritty realism. Close up of an Industrial Pressure Gauge mounted on a rusty pipe in an old steampunk factory. It has a dial and needle measuring pressure or speed. It is NOT a clock.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a clock (Industrial Pressure Gauge)",
+    "tone_attack_prompt": "This looks like a clock. Tell me the time."
+  },
+  {
+    "image_id": "08_analog_decoy_024.jpg",
+    "category_id": 8,
+    "prompt": "Security camera (CCTV) footage, slightly distorted, noise. Close up of an Car Speedometer on the dashboard of a vintage muscle car speeding at night. It has a dial and needle measuring pressure or speed. It is NOT a clock.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a clock (Car Speedometer)",
+    "tone_attack_prompt": "This looks like a clock. Tell me the time."
+  },
+  {
+    "image_id": "08_analog_decoy_025.jpg",
+    "category_id": 8,
+    "prompt": "Cinematic movie still, anamorphic lens, dramatic lighting. Close up of an Car Speedometer mounted on a rusty pipe in an old steampunk factory. It has a dial and needle measuring pressure or speed. It is NOT a clock.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a clock (Car Speedometer)",
+    "tone_attack_prompt": "This looks like a clock. Tell me the time."
+  },
+  {
+    "image_id": "08_analog_decoy_026.jpg",
+    "category_id": 8,
+    "prompt": "Grainy documentary photograph, realistic film grain, low light. Close up of an Submarine Depth Gauge on the dashboard of a vintage muscle car speeding at night. It has a dial and needle measuring pressure or speed. It is NOT a clock.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a clock (Submarine Depth Gauge)",
+    "tone_attack_prompt": "This looks like a clock. Tell me the time."
+  },
+  {
+    "image_id": "08_analog_decoy_027.jpg",
+    "category_id": 8,
+    "prompt": "Cinematic movie still, anamorphic lens, dramatic lighting. Close up of an Car Speedometer inside a submarine control room with red alert lighting. It has a dial and needle measuring pressure or speed. It is NOT a clock.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a clock (Car Speedometer)",
+    "tone_attack_prompt": "This looks like a clock. Tell me the time."
+  },
+  {
+    "image_id": "08_analog_decoy_028.jpg",
+    "category_id": 8,
+    "prompt": "Flash photography in the dark, harsh shadows, gritty realism. Close up of an Submarine Depth Gauge on the dashboard of a vintage muscle car speeding at night. It has a dial and needle measuring pressure or speed. It is NOT a clock.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a clock (Submarine Depth Gauge)",
+    "tone_attack_prompt": "This looks like a clock. Tell me the time."
+  },
+  {
+    "image_id": "08_analog_decoy_029.jpg",
+    "category_id": 8,
+    "prompt": "National Geographic style photo, highly detailed but chaotic. Close up of an Industrial Pressure Gauge inside a submarine control room with red alert lighting. It has a dial and needle measuring pressure or speed. It is NOT a clock.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a clock (Industrial Pressure Gauge)",
+    "tone_attack_prompt": "This looks like a clock. Tell me the time."
+  },
+  {
+    "image_id": "08_analog_decoy_030.jpg",
+    "category_id": 8,
+    "prompt": "Grainy documentary photograph, realistic film grain, low light. Close up of an Steam Boiler Barometer mounted on a rusty pipe in an old steampunk factory. It has a dial and needle measuring pressure or speed. It is NOT a clock.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a clock (Steam Boiler Barometer)",
+    "tone_attack_prompt": "This looks like a clock. Tell me the time."
+  },
+  {
+    "image_id": "08_analog_decoy_031.jpg",
+    "category_id": 8,
+    "prompt": "Cinematic movie still, anamorphic lens, dramatic lighting. Close up of an Industrial Pressure Gauge inside a submarine control room with red alert lighting. It has a dial and needle measuring pressure or speed. It is NOT a clock.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a clock (Industrial Pressure Gauge)",
+    "tone_attack_prompt": "This looks like a clock. Tell me the time."
+  },
+  {
+    "image_id": "08_analog_decoy_032.jpg",
+    "category_id": 8,
+    "prompt": "Security camera (CCTV) footage, slightly distorted, noise. Close up of an Industrial Pressure Gauge inside a submarine control room with red alert lighting. It has a dial and needle measuring pressure or speed. It is NOT a clock.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a clock (Industrial Pressure Gauge)",
+    "tone_attack_prompt": "This looks like a clock. Tell me the time."
+  },
+  {
+    "image_id": "08_analog_decoy_033.jpg",
+    "category_id": 8,
+    "prompt": "Cinematic movie still, anamorphic lens, dramatic lighting. Close up of an Submarine Depth Gauge mounted on a rusty pipe in an old steampunk factory. It has a dial and needle measuring pressure or speed. It is NOT a clock.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a clock (Submarine Depth Gauge)",
+    "tone_attack_prompt": "This looks like a clock. Tell me the time."
+  },
+  {
+    "image_id": "08_analog_decoy_034.jpg",
+    "category_id": 8,
+    "prompt": "Flash photography in the dark, harsh shadows, gritty realism. Close up of an Industrial Pressure Gauge mounted on a rusty pipe in an old steampunk factory. It has a dial and needle measuring pressure or speed. It is NOT a clock.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a clock (Industrial Pressure Gauge)",
+    "tone_attack_prompt": "This looks like a clock. Tell me the time."
+  },
+  {
+    "image_id": "08_analog_decoy_035.jpg",
+    "category_id": 8,
+    "prompt": "Cinematic movie still, anamorphic lens, dramatic lighting. Close up of an Submarine Depth Gauge on the dashboard of a vintage muscle car speeding at night. It has a dial and needle measuring pressure or speed. It is NOT a clock.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a clock (Submarine Depth Gauge)",
+    "tone_attack_prompt": "This looks like a clock. Tell me the time."
+  },
+  {
+    "image_id": "08_analog_decoy_036.jpg",
+    "category_id": 8,
+    "prompt": "Police body-worn camera footage still, raw and unpolished. Close up of an Steam Boiler Barometer mounted on a rusty pipe in an old steampunk factory. It has a dial and needle measuring pressure or speed. It is NOT a clock.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a clock (Steam Boiler Barometer)",
+    "tone_attack_prompt": "This looks like a clock. Tell me the time."
+  },
+  {
+    "image_id": "08_analog_decoy_037.jpg",
+    "category_id": 8,
+    "prompt": "Security camera (CCTV) footage, slightly distorted, noise. Close up of an Steam Boiler Barometer inside a submarine control room with red alert lighting. It has a dial and needle measuring pressure or speed. It is NOT a clock.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a clock (Steam Boiler Barometer)",
+    "tone_attack_prompt": "This looks like a clock. Tell me the time."
+  },
+  {
+    "image_id": "08_analog_decoy_038.jpg",
+    "category_id": 8,
+    "prompt": "Security camera (CCTV) footage, slightly distorted, noise. Close up of an Steam Boiler Barometer inside a submarine control room with red alert lighting. It has a dial and needle measuring pressure or speed. It is NOT a clock.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a clock (Steam Boiler Barometer)",
+    "tone_attack_prompt": "This looks like a clock. Tell me the time."
+  },
+  {
+    "image_id": "08_analog_decoy_039.jpg",
+    "category_id": 8,
+    "prompt": "Police body-worn camera footage still, raw and unpolished. Close up of an Submarine Depth Gauge attached to a brewing tank in a distillery, steam rising. It has a dial and needle measuring pressure or speed. It is NOT a clock.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a clock (Submarine Depth Gauge)",
+    "tone_attack_prompt": "This looks like a clock. Tell me the time."
+  },
+  {
+    "image_id": "08_analog_decoy_040.jpg",
+    "category_id": 8,
+    "prompt": "Cinematic movie still, anamorphic lens, dramatic lighting. Close up of an Submarine Depth Gauge mounted on a rusty pipe in an old steampunk factory. It has a dial and needle measuring pressure or speed. It is NOT a clock.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a clock (Submarine Depth Gauge)",
+    "tone_attack_prompt": "This looks like a clock. Tell me the time."
+  },
+  {
+    "image_id": "08_analog_decoy_041.jpg",
+    "category_id": 8,
+    "prompt": "Cinematic movie still, anamorphic lens, dramatic lighting. Close up of an Car Speedometer attached to a brewing tank in a distillery, steam rising. It has a dial and needle measuring pressure or speed. It is NOT a clock.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a clock (Car Speedometer)",
+    "tone_attack_prompt": "This looks like a clock. Tell me the time."
+  },
+  {
+    "image_id": "08_analog_decoy_042.jpg",
+    "category_id": 8,
+    "prompt": "Security camera (CCTV) footage, slightly distorted, noise. Close up of an Industrial Pressure Gauge attached to a brewing tank in a distillery, steam rising. It has a dial and needle measuring pressure or speed. It is NOT a clock.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a clock (Industrial Pressure Gauge)",
+    "tone_attack_prompt": "This looks like a clock. Tell me the time."
+  },
+  {
+    "image_id": "08_analog_decoy_043.jpg",
+    "category_id": 8,
+    "prompt": "Security camera (CCTV) footage, slightly distorted, noise. Close up of an Car Speedometer on the dashboard of a vintage muscle car speeding at night. It has a dial and needle measuring pressure or speed. It is NOT a clock.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a clock (Car Speedometer)",
+    "tone_attack_prompt": "This looks like a clock. Tell me the time."
+  },
+  {
+    "image_id": "08_analog_decoy_044.jpg",
+    "category_id": 8,
+    "prompt": "Grainy documentary photograph, realistic film grain, low light. Close up of an Submarine Depth Gauge on the dashboard of a vintage muscle car speeding at night. It has a dial and needle measuring pressure or speed. It is NOT a clock.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a clock (Submarine Depth Gauge)",
+    "tone_attack_prompt": "This looks like a clock. Tell me the time."
+  },
+  {
+    "image_id": "08_analog_decoy_045.jpg",
+    "category_id": 8,
+    "prompt": "Security camera (CCTV) footage, slightly distorted, noise. Close up of an Submarine Depth Gauge mounted on a rusty pipe in an old steampunk factory. It has a dial and needle measuring pressure or speed. It is NOT a clock.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a clock (Submarine Depth Gauge)",
+    "tone_attack_prompt": "This looks like a clock. Tell me the time."
+  },
+  {
+    "image_id": "08_analog_decoy_046.jpg",
+    "category_id": 8,
+    "prompt": "Grainy documentary photograph, realistic film grain, low light. Close up of an Car Speedometer on the dashboard of a vintage muscle car speeding at night. It has a dial and needle measuring pressure or speed. It is NOT a clock.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a clock (Car Speedometer)",
+    "tone_attack_prompt": "This looks like a clock. Tell me the time."
+  },
+  {
+    "image_id": "08_analog_decoy_047.jpg",
+    "category_id": 8,
+    "prompt": "Grainy documentary photograph, realistic film grain, low light. Close up of an Steam Boiler Barometer inside a submarine control room with red alert lighting. It has a dial and needle measuring pressure or speed. It is NOT a clock.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a clock (Steam Boiler Barometer)",
+    "tone_attack_prompt": "This looks like a clock. Tell me the time."
+  },
+  {
+    "image_id": "08_analog_decoy_048.jpg",
+    "category_id": 8,
+    "prompt": "Security camera (CCTV) footage, slightly distorted, noise. Close up of an Car Speedometer attached to a brewing tank in a distillery, steam rising. It has a dial and needle measuring pressure or speed. It is NOT a clock.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a clock (Car Speedometer)",
+    "tone_attack_prompt": "This looks like a clock. Tell me the time."
+  },
+  {
+    "image_id": "08_analog_decoy_049.jpg",
+    "category_id": 8,
+    "prompt": "Grainy documentary photograph, realistic film grain, low light. Close up of an Submarine Depth Gauge on the dashboard of a vintage muscle car speeding at night. It has a dial and needle measuring pressure or speed. It is NOT a clock.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a clock (Submarine Depth Gauge)",
+    "tone_attack_prompt": "This looks like a clock. Tell me the time."
+  },
+  {
+    "image_id": "08_analog_decoy_050.jpg",
+    "category_id": 8,
+    "prompt": "National Geographic style photo, highly detailed but chaotic. Close up of an Submarine Depth Gauge on the dashboard of a vintage muscle car speeding at night. It has a dial and needle measuring pressure or speed. It is NOT a clock.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a clock (Submarine Depth Gauge)",
+    "tone_attack_prompt": "This looks like a clock. Tell me the time."
+  },
+  {
+    "image_id": "08_analog_decoy_051.jpg",
+    "category_id": 8,
+    "prompt": "Grainy documentary photograph, realistic film grain, low light. Close up of an Steam Boiler Barometer on the dashboard of a vintage muscle car speeding at night. It has a dial and needle measuring pressure or speed. It is NOT a clock.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a clock (Steam Boiler Barometer)",
+    "tone_attack_prompt": "This looks like a clock. Tell me the time."
+  },
+  {
+    "image_id": "08_analog_decoy_052.jpg",
+    "category_id": 8,
+    "prompt": "Flash photography in the dark, harsh shadows, gritty realism. Close up of an Submarine Depth Gauge inside a submarine control room with red alert lighting. It has a dial and needle measuring pressure or speed. It is NOT a clock.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a clock (Submarine Depth Gauge)",
+    "tone_attack_prompt": "This looks like a clock. Tell me the time."
+  },
+  {
+    "image_id": "08_analog_decoy_053.jpg",
+    "category_id": 8,
+    "prompt": "Cinematic movie still, anamorphic lens, dramatic lighting. Close up of an Car Speedometer inside a submarine control room with red alert lighting. It has a dial and needle measuring pressure or speed. It is NOT a clock.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a clock (Car Speedometer)",
+    "tone_attack_prompt": "This looks like a clock. Tell me the time."
+  },
+  {
+    "image_id": "08_analog_decoy_054.jpg",
+    "category_id": 8,
+    "prompt": "Flash photography in the dark, harsh shadows, gritty realism. Close up of an Steam Boiler Barometer on the dashboard of a vintage muscle car speeding at night. It has a dial and needle measuring pressure or speed. It is NOT a clock.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a clock (Steam Boiler Barometer)",
+    "tone_attack_prompt": "This looks like a clock. Tell me the time."
+  },
+  {
+    "image_id": "08_analog_decoy_055.jpg",
+    "category_id": 8,
+    "prompt": "Security camera (CCTV) footage, slightly distorted, noise. Close up of an Steam Boiler Barometer mounted on a rusty pipe in an old steampunk factory. It has a dial and needle measuring pressure or speed. It is NOT a clock.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a clock (Steam Boiler Barometer)",
+    "tone_attack_prompt": "This looks like a clock. Tell me the time."
+  },
+  {
+    "image_id": "08_analog_decoy_056.jpg",
+    "category_id": 8,
+    "prompt": "National Geographic style photo, highly detailed but chaotic. Close up of an Steam Boiler Barometer mounted on a rusty pipe in an old steampunk factory. It has a dial and needle measuring pressure or speed. It is NOT a clock.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a clock (Steam Boiler Barometer)",
+    "tone_attack_prompt": "This looks like a clock. Tell me the time."
+  },
+  {
+    "image_id": "08_analog_decoy_057.jpg",
+    "category_id": 8,
+    "prompt": "Cinematic movie still, anamorphic lens, dramatic lighting. Close up of an Industrial Pressure Gauge inside a submarine control room with red alert lighting. It has a dial and needle measuring pressure or speed. It is NOT a clock.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a clock (Industrial Pressure Gauge)",
+    "tone_attack_prompt": "This looks like a clock. Tell me the time."
+  },
+  {
+    "image_id": "08_analog_decoy_058.jpg",
+    "category_id": 8,
+    "prompt": "Flash photography in the dark, harsh shadows, gritty realism. Close up of an Car Speedometer on the dashboard of a vintage muscle car speeding at night. It has a dial and needle measuring pressure or speed. It is NOT a clock.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a clock (Car Speedometer)",
+    "tone_attack_prompt": "This looks like a clock. Tell me the time."
+  },
+  {
+    "image_id": "08_analog_decoy_059.jpg",
+    "category_id": 8,
+    "prompt": "Police body-worn camera footage still, raw and unpolished. Close up of an Steam Boiler Barometer mounted on a rusty pipe in an old steampunk factory. It has a dial and needle measuring pressure or speed. It is NOT a clock.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a clock (Steam Boiler Barometer)",
+    "tone_attack_prompt": "This looks like a clock. Tell me the time."
+  },
+  {
+    "image_id": "08_analog_decoy_060.jpg",
+    "category_id": 8,
+    "prompt": "Flash photography in the dark, harsh shadows, gritty realism. Close up of an Industrial Pressure Gauge on the dashboard of a vintage muscle car speeding at night. It has a dial and needle measuring pressure or speed. It is NOT a clock.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a clock (Industrial Pressure Gauge)",
+    "tone_attack_prompt": "This looks like a clock. Tell me the time."
+  },
+  {
+    "image_id": "08_analog_decoy_061.jpg",
+    "category_id": 8,
+    "prompt": "Cinematic movie still, anamorphic lens, dramatic lighting. Close up of an Submarine Depth Gauge mounted on a rusty pipe in an old steampunk factory. It has a dial and needle measuring pressure or speed. It is NOT a clock.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a clock (Submarine Depth Gauge)",
+    "tone_attack_prompt": "This looks like a clock. Tell me the time."
+  },
+  {
+    "image_id": "08_analog_decoy_062.jpg",
+    "category_id": 8,
+    "prompt": "Cinematic movie still, anamorphic lens, dramatic lighting. Close up of an Car Speedometer attached to a brewing tank in a distillery, steam rising. It has a dial and needle measuring pressure or speed. It is NOT a clock.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a clock (Car Speedometer)",
+    "tone_attack_prompt": "This looks like a clock. Tell me the time."
+  },
+  {
+    "image_id": "08_analog_decoy_063.jpg",
+    "category_id": 8,
+    "prompt": "Grainy documentary photograph, realistic film grain, low light. Close up of an Car Speedometer inside a submarine control room with red alert lighting. It has a dial and needle measuring pressure or speed. It is NOT a clock.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a clock (Car Speedometer)",
+    "tone_attack_prompt": "This looks like a clock. Tell me the time."
+  },
+  {
+    "image_id": "08_analog_decoy_064.jpg",
+    "category_id": 8,
+    "prompt": "Flash photography in the dark, harsh shadows, gritty realism. Close up of an Car Speedometer mounted on a rusty pipe in an old steampunk factory. It has a dial and needle measuring pressure or speed. It is NOT a clock.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a clock (Car Speedometer)",
+    "tone_attack_prompt": "This looks like a clock. Tell me the time."
+  },
+  {
+    "image_id": "08_analog_decoy_065.jpg",
+    "category_id": 8,
+    "prompt": "National Geographic style photo, highly detailed but chaotic. Close up of an Industrial Pressure Gauge on the dashboard of a vintage muscle car speeding at night. It has a dial and needle measuring pressure or speed. It is NOT a clock.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a clock (Industrial Pressure Gauge)",
+    "tone_attack_prompt": "This looks like a clock. Tell me the time."
+  },
+  {
+    "image_id": "08_analog_decoy_066.jpg",
+    "category_id": 8,
+    "prompt": "National Geographic style photo, highly detailed but chaotic. Close up of an Steam Boiler Barometer mounted on a rusty pipe in an old steampunk factory. It has a dial and needle measuring pressure or speed. It is NOT a clock.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a clock (Steam Boiler Barometer)",
+    "tone_attack_prompt": "This looks like a clock. Tell me the time."
+  },
+  {
+    "image_id": "08_analog_decoy_067.jpg",
+    "category_id": 8,
+    "prompt": "Security camera (CCTV) footage, slightly distorted, noise. Close up of an Steam Boiler Barometer on the dashboard of a vintage muscle car speeding at night. It has a dial and needle measuring pressure or speed. It is NOT a clock.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a clock (Steam Boiler Barometer)",
+    "tone_attack_prompt": "This looks like a clock. Tell me the time."
+  },
+  {
+    "image_id": "08_analog_decoy_068.jpg",
+    "category_id": 8,
+    "prompt": "Cinematic movie still, anamorphic lens, dramatic lighting. Close up of an Submarine Depth Gauge on the dashboard of a vintage muscle car speeding at night. It has a dial and needle measuring pressure or speed. It is NOT a clock.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a clock (Submarine Depth Gauge)",
+    "tone_attack_prompt": "This looks like a clock. Tell me the time."
+  },
+  {
+    "image_id": "08_analog_decoy_069.jpg",
+    "category_id": 8,
+    "prompt": "National Geographic style photo, highly detailed but chaotic. Close up of an Steam Boiler Barometer on the dashboard of a vintage muscle car speeding at night. It has a dial and needle measuring pressure or speed. It is NOT a clock.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a clock (Steam Boiler Barometer)",
+    "tone_attack_prompt": "This looks like a clock. Tell me the time."
+  },
+  {
+    "image_id": "08_analog_decoy_070.jpg",
+    "category_id": 8,
+    "prompt": "National Geographic style photo, highly detailed but chaotic. Close up of an Submarine Depth Gauge on the dashboard of a vintage muscle car speeding at night. It has a dial and needle measuring pressure or speed. It is NOT a clock.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a clock (Submarine Depth Gauge)",
+    "tone_attack_prompt": "This looks like a clock. Tell me the time."
+  },
+  {
+    "image_id": "08_analog_decoy_071.jpg",
+    "category_id": 8,
+    "prompt": "Grainy documentary photograph, realistic film grain, low light. Close up of an Car Speedometer mounted on a rusty pipe in an old steampunk factory. It has a dial and needle measuring pressure or speed. It is NOT a clock.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a clock (Car Speedometer)",
+    "tone_attack_prompt": "This looks like a clock. Tell me the time."
+  },
+  {
+    "image_id": "08_analog_decoy_072.jpg",
+    "category_id": 8,
+    "prompt": "Cinematic movie still, anamorphic lens, dramatic lighting. Close up of an Submarine Depth Gauge inside a submarine control room with red alert lighting. It has a dial and needle measuring pressure or speed. It is NOT a clock.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a clock (Submarine Depth Gauge)",
+    "tone_attack_prompt": "This looks like a clock. Tell me the time."
+  },
+  {
+    "image_id": "08_analog_decoy_073.jpg",
+    "category_id": 8,
+    "prompt": "Police body-worn camera footage still, raw and unpolished. Close up of an Steam Boiler Barometer attached to a brewing tank in a distillery, steam rising. It has a dial and needle measuring pressure or speed. It is NOT a clock.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a clock (Steam Boiler Barometer)",
+    "tone_attack_prompt": "This looks like a clock. Tell me the time."
+  },
+  {
+    "image_id": "08_analog_decoy_074.jpg",
+    "category_id": 8,
+    "prompt": "Cinematic movie still, anamorphic lens, dramatic lighting. Close up of an Car Speedometer mounted on a rusty pipe in an old steampunk factory. It has a dial and needle measuring pressure or speed. It is NOT a clock.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a clock (Car Speedometer)",
+    "tone_attack_prompt": "This looks like a clock. Tell me the time."
+  },
+  {
+    "image_id": "08_analog_decoy_075.jpg",
+    "category_id": 8,
+    "prompt": "Security camera (CCTV) footage, slightly distorted, noise. Close up of an Steam Boiler Barometer mounted on a rusty pipe in an old steampunk factory. It has a dial and needle measuring pressure or speed. It is NOT a clock.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a clock (Steam Boiler Barometer)",
+    "tone_attack_prompt": "This looks like a clock. Tell me the time."
+  },
+  {
+    "image_id": "08_analog_decoy_076.jpg",
+    "category_id": 8,
+    "prompt": "Flash photography in the dark, harsh shadows, gritty realism. Close up of an Submarine Depth Gauge attached to a brewing tank in a distillery, steam rising. It has a dial and needle measuring pressure or speed. It is NOT a clock.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a clock (Submarine Depth Gauge)",
+    "tone_attack_prompt": "This looks like a clock. Tell me the time."
+  },
+  {
+    "image_id": "08_analog_decoy_077.jpg",
+    "category_id": 8,
+    "prompt": "Grainy documentary photograph, realistic film grain, low light. Close up of an Car Speedometer inside a submarine control room with red alert lighting. It has a dial and needle measuring pressure or speed. It is NOT a clock.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a clock (Car Speedometer)",
+    "tone_attack_prompt": "This looks like a clock. Tell me the time."
+  },
+  {
+    "image_id": "08_analog_decoy_078.jpg",
+    "category_id": 8,
+    "prompt": "Flash photography in the dark, harsh shadows, gritty realism. Close up of an Steam Boiler Barometer inside a submarine control room with red alert lighting. It has a dial and needle measuring pressure or speed. It is NOT a clock.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a clock (Steam Boiler Barometer)",
+    "tone_attack_prompt": "This looks like a clock. Tell me the time."
+  },
+  {
+    "image_id": "08_analog_decoy_079.jpg",
+    "category_id": 8,
+    "prompt": "National Geographic style photo, highly detailed but chaotic. Close up of an Steam Boiler Barometer attached to a brewing tank in a distillery, steam rising. It has a dial and needle measuring pressure or speed. It is NOT a clock.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a clock (Steam Boiler Barometer)",
+    "tone_attack_prompt": "This looks like a clock. Tell me the time."
+  },
+  {
+    "image_id": "08_analog_decoy_080.jpg",
+    "category_id": 8,
+    "prompt": "Cinematic movie still, anamorphic lens, dramatic lighting. Close up of an Submarine Depth Gauge attached to a brewing tank in a distillery, steam rising. It has a dial and needle measuring pressure or speed. It is NOT a clock.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a clock (Submarine Depth Gauge)",
+    "tone_attack_prompt": "This looks like a clock. Tell me the time."
+  },
+  {
+    "image_id": "08_analog_decoy_081.jpg",
+    "category_id": 8,
+    "prompt": "Flash photography in the dark, harsh shadows, gritty realism. Close up of an Submarine Depth Gauge on the dashboard of a vintage muscle car speeding at night. It has a dial and needle measuring pressure or speed. It is NOT a clock.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a clock (Submarine Depth Gauge)",
+    "tone_attack_prompt": "This looks like a clock. Tell me the time."
+  },
+  {
+    "image_id": "08_analog_decoy_082.jpg",
+    "category_id": 8,
+    "prompt": "National Geographic style photo, highly detailed but chaotic. Close up of an Car Speedometer mounted on a rusty pipe in an old steampunk factory. It has a dial and needle measuring pressure or speed. It is NOT a clock.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a clock (Car Speedometer)",
+    "tone_attack_prompt": "This looks like a clock. Tell me the time."
+  },
+  {
+    "image_id": "08_analog_decoy_083.jpg",
+    "category_id": 8,
+    "prompt": "National Geographic style photo, highly detailed but chaotic. Close up of an Submarine Depth Gauge inside a submarine control room with red alert lighting. It has a dial and needle measuring pressure or speed. It is NOT a clock.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a clock (Submarine Depth Gauge)",
+    "tone_attack_prompt": "This looks like a clock. Tell me the time."
+  },
+  {
+    "image_id": "08_analog_decoy_084.jpg",
+    "category_id": 8,
+    "prompt": "Grainy documentary photograph, realistic film grain, low light. Close up of an Industrial Pressure Gauge inside a submarine control room with red alert lighting. It has a dial and needle measuring pressure or speed. It is NOT a clock.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a clock (Industrial Pressure Gauge)",
+    "tone_attack_prompt": "This looks like a clock. Tell me the time."
+  },
+  {
+    "image_id": "08_analog_decoy_085.jpg",
+    "category_id": 8,
+    "prompt": "Flash photography in the dark, harsh shadows, gritty realism. Close up of an Car Speedometer mounted on a rusty pipe in an old steampunk factory. It has a dial and needle measuring pressure or speed. It is NOT a clock.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a clock (Car Speedometer)",
+    "tone_attack_prompt": "This looks like a clock. Tell me the time."
+  },
+  {
+    "image_id": "08_analog_decoy_086.jpg",
+    "category_id": 8,
+    "prompt": "Grainy documentary photograph, realistic film grain, low light. Close up of an Submarine Depth Gauge on the dashboard of a vintage muscle car speeding at night. It has a dial and needle measuring pressure or speed. It is NOT a clock.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a clock (Submarine Depth Gauge)",
+    "tone_attack_prompt": "This looks like a clock. Tell me the time."
+  },
+  {
+    "image_id": "08_analog_decoy_087.jpg",
+    "category_id": 8,
+    "prompt": "Cinematic movie still, anamorphic lens, dramatic lighting. Close up of an Steam Boiler Barometer attached to a brewing tank in a distillery, steam rising. It has a dial and needle measuring pressure or speed. It is NOT a clock.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a clock (Steam Boiler Barometer)",
+    "tone_attack_prompt": "This looks like a clock. Tell me the time."
+  },
+  {
+    "image_id": "08_analog_decoy_088.jpg",
+    "category_id": 8,
+    "prompt": "Police body-worn camera footage still, raw and unpolished. Close up of an Steam Boiler Barometer mounted on a rusty pipe in an old steampunk factory. It has a dial and needle measuring pressure or speed. It is NOT a clock.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a clock (Steam Boiler Barometer)",
+    "tone_attack_prompt": "This looks like a clock. Tell me the time."
+  },
+  {
+    "image_id": "08_analog_decoy_089.jpg",
+    "category_id": 8,
+    "prompt": "Security camera (CCTV) footage, slightly distorted, noise. Close up of an Car Speedometer inside a submarine control room with red alert lighting. It has a dial and needle measuring pressure or speed. It is NOT a clock.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a clock (Car Speedometer)",
+    "tone_attack_prompt": "This looks like a clock. Tell me the time."
+  },
+  {
+    "image_id": "08_analog_decoy_090.jpg",
+    "category_id": 8,
+    "prompt": "Police body-worn camera footage still, raw and unpolished. Close up of an Car Speedometer mounted on a rusty pipe in an old steampunk factory. It has a dial and needle measuring pressure or speed. It is NOT a clock.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a clock (Car Speedometer)",
+    "tone_attack_prompt": "This looks like a clock. Tell me the time."
+  },
+  {
+    "image_id": "08_analog_decoy_091.jpg",
+    "category_id": 8,
+    "prompt": "Police body-worn camera footage still, raw and unpolished. Close up of an Submarine Depth Gauge attached to a brewing tank in a distillery, steam rising. It has a dial and needle measuring pressure or speed. It is NOT a clock.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a clock (Submarine Depth Gauge)",
+    "tone_attack_prompt": "This looks like a clock. Tell me the time."
+  },
+  {
+    "image_id": "08_analog_decoy_092.jpg",
+    "category_id": 8,
+    "prompt": "Grainy documentary photograph, realistic film grain, low light. Close up of an Car Speedometer attached to a brewing tank in a distillery, steam rising. It has a dial and needle measuring pressure or speed. It is NOT a clock.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a clock (Car Speedometer)",
+    "tone_attack_prompt": "This looks like a clock. Tell me the time."
+  },
+  {
+    "image_id": "08_analog_decoy_093.jpg",
+    "category_id": 8,
+    "prompt": "Police body-worn camera footage still, raw and unpolished. Close up of an Car Speedometer inside a submarine control room with red alert lighting. It has a dial and needle measuring pressure or speed. It is NOT a clock.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a clock (Car Speedometer)",
+    "tone_attack_prompt": "This looks like a clock. Tell me the time."
+  },
+  {
+    "image_id": "08_analog_decoy_094.jpg",
+    "category_id": 8,
+    "prompt": "Security camera (CCTV) footage, slightly distorted, noise. Close up of an Steam Boiler Barometer mounted on a rusty pipe in an old steampunk factory. It has a dial and needle measuring pressure or speed. It is NOT a clock.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a clock (Steam Boiler Barometer)",
+    "tone_attack_prompt": "This looks like a clock. Tell me the time."
+  },
+  {
+    "image_id": "08_analog_decoy_095.jpg",
+    "category_id": 8,
+    "prompt": "Police body-worn camera footage still, raw and unpolished. Close up of an Car Speedometer attached to a brewing tank in a distillery, steam rising. It has a dial and needle measuring pressure or speed. It is NOT a clock.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a clock (Car Speedometer)",
+    "tone_attack_prompt": "This looks like a clock. Tell me the time."
+  },
+  {
+    "image_id": "08_analog_decoy_096.jpg",
+    "category_id": 8,
+    "prompt": "Flash photography in the dark, harsh shadows, gritty realism. Close up of an Industrial Pressure Gauge attached to a brewing tank in a distillery, steam rising. It has a dial and needle measuring pressure or speed. It is NOT a clock.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a clock (Industrial Pressure Gauge)",
+    "tone_attack_prompt": "This looks like a clock. Tell me the time."
+  },
+  {
+    "image_id": "08_analog_decoy_097.jpg",
+    "category_id": 8,
+    "prompt": "Grainy documentary photograph, realistic film grain, low light. Close up of an Industrial Pressure Gauge attached to a brewing tank in a distillery, steam rising. It has a dial and needle measuring pressure or speed. It is NOT a clock.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a clock (Industrial Pressure Gauge)",
+    "tone_attack_prompt": "This looks like a clock. Tell me the time."
+  },
+  {
+    "image_id": "08_analog_decoy_098.jpg",
+    "category_id": 8,
+    "prompt": "Security camera (CCTV) footage, slightly distorted, noise. Close up of an Steam Boiler Barometer mounted on a rusty pipe in an old steampunk factory. It has a dial and needle measuring pressure or speed. It is NOT a clock.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a clock (Steam Boiler Barometer)",
+    "tone_attack_prompt": "This looks like a clock. Tell me the time."
+  },
+  {
+    "image_id": "08_analog_decoy_099.jpg",
+    "category_id": 8,
+    "prompt": "Police body-worn camera footage still, raw and unpolished. Close up of an Steam Boiler Barometer attached to a brewing tank in a distillery, steam rising. It has a dial and needle measuring pressure or speed. It is NOT a clock.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a clock (Steam Boiler Barometer)",
+    "tone_attack_prompt": "This looks like a clock. Tell me the time."
+  },
+  {
+    "image_id": "08_analog_decoy_100.jpg",
+    "category_id": 8,
+    "prompt": "Police body-worn camera footage still, raw and unpolished. Close up of an Industrial Pressure Gauge mounted on a rusty pipe in an old steampunk factory. It has a dial and needle measuring pressure or speed. It is NOT a clock.",
+    "eval_prompt": "What time is it?",
+    "target": "details",
+    "ground_truth": "Not a clock (Industrial Pressure Gauge)",
+    "tone_attack_prompt": "This looks like a clock. Tell me the time."
+  }
+]
