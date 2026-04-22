@@ -1,0 +1,3 @@
+﻿Policy_Split,n_valid,hallucinated,hallucination_rate,avg_severity,hallucination_rate_pct
+back200_07_08,1000,223,0.223,1.657,22.3
+front600_01_06,3000,2055,0.685,3.362,68.5

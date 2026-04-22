@@ -1,0 +1,4813 @@
+{
+  "dataset_name": "Final_dataset_800",
+  "image_dir": "/data/jianzhiy/Final/Final Dataset",
+  "tones": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "items": [
+    {
+      "image_file": "01_text_blur/01_text_blur_001.jpg",
+      "image_num": 1,
+      "case_id": 1,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "01_text_blur/01_text_blur_002.jpg",
+      "image_num": 2,
+      "case_id": 2,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "01_text_blur/01_text_blur_003.jpg",
+      "image_num": 3,
+      "case_id": 3,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "01_text_blur/01_text_blur_004.png",
+      "image_num": 4,
+      "case_id": 4,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "01_text_blur/01_text_blur_005.jpg",
+      "image_num": 5,
+      "case_id": 5,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "01_text_blur/01_text_blur_006.jpg",
+      "image_num": 6,
+      "case_id": 6,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "01_text_blur/01_text_blur_007.jpg",
+      "image_num": 7,
+      "case_id": 7,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "01_text_blur/01_text_blur_008.jpg",
+      "image_num": 8,
+      "case_id": 8,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "01_text_blur/01_text_blur_009.jpg",
+      "image_num": 9,
+      "case_id": 9,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "01_text_blur/01_text_blur_010.jpg",
+      "image_num": 10,
+      "case_id": 10,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "01_text_blur/01_text_blur_011.jpg",
+      "image_num": 11,
+      "case_id": 11,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "01_text_blur/01_text_blur_012.jpg",
+      "image_num": 12,
+      "case_id": 12,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "01_text_blur/01_text_blur_013.jpg",
+      "image_num": 13,
+      "case_id": 13,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "01_text_blur/01_text_blur_014.jpg",
+      "image_num": 14,
+      "case_id": 14,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "01_text_blur/01_text_blur_015.jpg",
+      "image_num": 15,
+      "case_id": 15,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "01_text_blur/01_text_blur_016.jpg",
+      "image_num": 16,
+      "case_id": 16,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "01_text_blur/01_text_blur_017.jpg",
+      "image_num": 17,
+      "case_id": 17,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "01_text_blur/01_text_blur_018.jpg",
+      "image_num": 18,
+      "case_id": 18,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "01_text_blur/01_text_blur_019.jpg",
+      "image_num": 19,
+      "case_id": 19,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "01_text_blur/01_text_blur_020.jpg",
+      "image_num": 20,
+      "case_id": 20,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "01_text_blur/01_text_blur_021.jpg",
+      "image_num": 21,
+      "case_id": 21,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "01_text_blur/01_text_blur_022.jpg",
+      "image_num": 22,
+      "case_id": 22,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "01_text_blur/01_text_blur_023.jpg",
+      "image_num": 23,
+      "case_id": 23,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "01_text_blur/01_text_blur_024.jpg",
+      "image_num": 24,
+      "case_id": 24,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "01_text_blur/01_text_blur_025.jpg",
+      "image_num": 25,
+      "case_id": 25,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "01_text_blur/01_text_blur_026.jpg",
+      "image_num": 26,
+      "case_id": 26,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "01_text_blur/01_text_blur_027.jpg",
+      "image_num": 27,
+      "case_id": 27,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "01_text_blur/01_text_blur_028.jpg",
+      "image_num": 28,
+      "case_id": 28,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "01_text_blur/01_text_blur_029.jpg",
+      "image_num": 29,
+      "case_id": 29,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "01_text_blur/01_text_blur_030.jpg",
+      "image_num": 30,
+      "case_id": 30,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "01_text_blur/01_text_blur_031.jpg",
+      "image_num": 31,
+      "case_id": 31,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "01_text_blur/01_text_blur_032.jpg",
+      "image_num": 32,
+      "case_id": 32,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "01_text_blur/01_text_blur_033.jpg",
+      "image_num": 33,
+      "case_id": 33,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "01_text_blur/01_text_blur_034.jpg",
+      "image_num": 34,
+      "case_id": 34,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "01_text_blur/01_text_blur_035.jpg",
+      "image_num": 35,
+      "case_id": 35,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "01_text_blur/01_text_blur_036.jpg",
+      "image_num": 36,
+      "case_id": 36,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "01_text_blur/01_text_blur_037.jpg",
+      "image_num": 37,
+      "case_id": 37,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "01_text_blur/01_text_blur_038.jpg",
+      "image_num": 38,
+      "case_id": 38,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "01_text_blur/01_text_blur_039.jpg",
+      "image_num": 39,
+      "case_id": 39,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "01_text_blur/01_text_blur_040.jpg",
+      "image_num": 40,
+      "case_id": 40,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "01_text_blur/01_text_blur_041.jpg",
+      "image_num": 41,
+      "case_id": 41,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "01_text_blur/01_text_blur_042.jpg",
+      "image_num": 42,
+      "case_id": 42,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "01_text_blur/01_text_blur_043.jpg",
+      "image_num": 43,
+      "case_id": 43,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "01_text_blur/01_text_blur_044.jpg",
+      "image_num": 44,
+      "case_id": 44,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "01_text_blur/01_text_blur_045.jpg",
+      "image_num": 45,
+      "case_id": 45,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "01_text_blur/01_text_blur_046.jpg",
+      "image_num": 46,
+      "case_id": 46,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "01_text_blur/01_text_blur_047.jpg",
+      "image_num": 47,
+      "case_id": 47,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "01_text_blur/01_text_blur_048.jpg",
+      "image_num": 48,
+      "case_id": 48,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "01_text_blur/01_text_blur_049.jpg",
+      "image_num": 49,
+      "case_id": 49,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "01_text_blur/01_text_blur_050.jpg",
+      "image_num": 50,
+      "case_id": 50,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "01_text_blur/01_text_blur_051.jpg",
+      "image_num": 51,
+      "case_id": 51,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "01_text_blur/01_text_blur_052.jpg",
+      "image_num": 52,
+      "case_id": 52,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "01_text_blur/01_text_blur_053.jpg",
+      "image_num": 53,
+      "case_id": 53,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "01_text_blur/01_text_blur_054.jpg",
+      "image_num": 54,
+      "case_id": 54,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "01_text_blur/01_text_blur_055.jpg",
+      "image_num": 55,
+      "case_id": 55,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "01_text_blur/01_text_blur_056.jpg",
+      "image_num": 56,
+      "case_id": 56,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "01_text_blur/01_text_blur_057.jpg",
+      "image_num": 57,
+      "case_id": 57,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "01_text_blur/01_text_blur_058.jpg",
+      "image_num": 58,
+      "case_id": 58,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "01_text_blur/01_text_blur_059.jpg",
+      "image_num": 59,
+      "case_id": 59,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "01_text_blur/01_text_blur_060.jpg",
+      "image_num": 60,
+      "case_id": 60,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "01_text_blur/01_text_blur_061.jpg",
+      "image_num": 61,
+      "case_id": 61,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "01_text_blur/01_text_blur_062.jpg",
+      "image_num": 62,
+      "case_id": 62,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "01_text_blur/01_text_blur_063.jpg",
+      "image_num": 63,
+      "case_id": 63,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "01_text_blur/01_text_blur_064.jpg",
+      "image_num": 64,
+      "case_id": 64,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "01_text_blur/01_text_blur_065.jpg",
+      "image_num": 65,
+      "case_id": 65,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "01_text_blur/01_text_blur_066.jpg",
+      "image_num": 66,
+      "case_id": 66,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "01_text_blur/01_text_blur_067.jpg",
+      "image_num": 67,
+      "case_id": 67,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "01_text_blur/01_text_blur_068.jpg",
+      "image_num": 68,
+      "case_id": 68,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "01_text_blur/01_text_blur_069.jpg",
+      "image_num": 69,
+      "case_id": 69,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "01_text_blur/01_text_blur_070.jpg",
+      "image_num": 70,
+      "case_id": 70,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "01_text_blur/01_text_blur_071.jpg",
+      "image_num": 71,
+      "case_id": 71,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "01_text_blur/01_text_blur_072.jpg",
+      "image_num": 72,
+      "case_id": 72,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "01_text_blur/01_text_blur_073.jpg",
+      "image_num": 73,
+      "case_id": 73,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "01_text_blur/01_text_blur_074.jpg",
+      "image_num": 74,
+      "case_id": 74,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "01_text_blur/01_text_blur_075.jpg",
+      "image_num": 75,
+      "case_id": 75,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "01_text_blur/01_text_blur_076.jpg",
+      "image_num": 76,
+      "case_id": 76,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "01_text_blur/01_text_blur_077.jpg",
+      "image_num": 77,
+      "case_id": 77,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "01_text_blur/01_text_blur_078.jpg",
+      "image_num": 78,
+      "case_id": 78,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "01_text_blur/01_text_blur_079.jpg",
+      "image_num": 79,
+      "case_id": 79,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "01_text_blur/01_text_blur_080.jpg",
+      "image_num": 80,
+      "case_id": 80,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "01_text_blur/01_text_blur_081.jpg",
+      "image_num": 81,
+      "case_id": 81,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "01_text_blur/01_text_blur_082.jpg",
+      "image_num": 82,
+      "case_id": 82,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "01_text_blur/01_text_blur_083.jpg",
+      "image_num": 83,
+      "case_id": 83,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "01_text_blur/01_text_blur_084.jpg",
+      "image_num": 84,
+      "case_id": 84,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "01_text_blur/01_text_blur_085.jpg",
+      "image_num": 85,
+      "case_id": 85,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "01_text_blur/01_text_blur_086.jpg",
+      "image_num": 86,
+      "case_id": 86,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "01_text_blur/01_text_blur_087.jpg",
+      "image_num": 87,
+      "case_id": 87,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "01_text_blur/01_text_blur_088.jpg",
+      "image_num": 88,
+      "case_id": 88,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "01_text_blur/01_text_blur_089.jpg",
+      "image_num": 89,
+      "case_id": 89,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "01_text_blur/01_text_blur_090.jpg",
+      "image_num": 90,
+      "case_id": 90,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "01_text_blur/01_text_blur_091.jpg",
+      "image_num": 91,
+      "case_id": 91,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "01_text_blur/01_text_blur_092.jpg",
+      "image_num": 92,
+      "case_id": 92,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "01_text_blur/01_text_blur_093.jpg",
+      "image_num": 93,
+      "case_id": 93,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "01_text_blur/01_text_blur_094.jpg",
+      "image_num": 94,
+      "case_id": 94,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "01_text_blur/01_text_blur_095.jpg",
+      "image_num": 95,
+      "case_id": 95,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "01_text_blur/01_text_blur_096.jpg",
+      "image_num": 96,
+      "case_id": 96,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "01_text_blur/01_text_blur_097.jpg",
+      "image_num": 97,
+      "case_id": 97,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "01_text_blur/01_text_blur_098.jpg",
+      "image_num": 98,
+      "case_id": 98,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "01_text_blur/01_text_blur_099.jpg",
+      "image_num": 99,
+      "case_id": 99,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "01_text_blur/01_text_blur_100.jpg",
+      "image_num": 100,
+      "case_id": 100,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "02_text_gibberish/02_text_gibberish_001.jpg",
+      "image_num": 101,
+      "case_id": 101,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "02_text_gibberish/02_text_gibberish_002.jpg",
+      "image_num": 102,
+      "case_id": 102,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "02_text_gibberish/02_text_gibberish_003.jpg",
+      "image_num": 103,
+      "case_id": 103,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "02_text_gibberish/02_text_gibberish_004.jpg",
+      "image_num": 104,
+      "case_id": 104,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "02_text_gibberish/02_text_gibberish_005.jpg",
+      "image_num": 105,
+      "case_id": 105,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "02_text_gibberish/02_text_gibberish_006.jpg",
+      "image_num": 106,
+      "case_id": 106,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "02_text_gibberish/02_text_gibberish_007.jpg",
+      "image_num": 107,
+      "case_id": 107,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "02_text_gibberish/02_text_gibberish_008.jpg",
+      "image_num": 108,
+      "case_id": 108,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "02_text_gibberish/02_text_gibberish_009.jpg",
+      "image_num": 109,
+      "case_id": 109,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "02_text_gibberish/02_text_gibberish_010.jpg",
+      "image_num": 110,
+      "case_id": 110,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "02_text_gibberish/02_text_gibberish_011.jpg",
+      "image_num": 111,
+      "case_id": 111,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "02_text_gibberish/02_text_gibberish_012.jpg",
+      "image_num": 112,
+      "case_id": 112,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "02_text_gibberish/02_text_gibberish_013.jpg",
+      "image_num": 113,
+      "case_id": 113,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "02_text_gibberish/02_text_gibberish_014.jpg",
+      "image_num": 114,
+      "case_id": 114,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "02_text_gibberish/02_text_gibberish_015.jpg",
+      "image_num": 115,
+      "case_id": 115,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "02_text_gibberish/02_text_gibberish_016.jpg",
+      "image_num": 116,
+      "case_id": 116,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "02_text_gibberish/02_text_gibberish_017.jpg",
+      "image_num": 117,
+      "case_id": 117,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "02_text_gibberish/02_text_gibberish_018.jpg",
+      "image_num": 118,
+      "case_id": 118,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "02_text_gibberish/02_text_gibberish_019.jpg",
+      "image_num": 119,
+      "case_id": 119,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "02_text_gibberish/02_text_gibberish_020.jpg",
+      "image_num": 120,
+      "case_id": 120,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "02_text_gibberish/02_text_gibberish_021.png",
+      "image_num": 121,
+      "case_id": 121,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "02_text_gibberish/02_text_gibberish_022.jpg",
+      "image_num": 122,
+      "case_id": 122,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "02_text_gibberish/02_text_gibberish_023.jpg",
+      "image_num": 123,
+      "case_id": 123,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "02_text_gibberish/02_text_gibberish_024.jpg",
+      "image_num": 124,
+      "case_id": 124,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "02_text_gibberish/02_text_gibberish_025.jpg",
+      "image_num": 125,
+      "case_id": 125,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "02_text_gibberish/02_text_gibberish_026.jpg",
+      "image_num": 126,
+      "case_id": 126,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "02_text_gibberish/02_text_gibberish_027.jpg",
+      "image_num": 127,
+      "case_id": 127,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "02_text_gibberish/02_text_gibberish_028.jpg",
+      "image_num": 128,
+      "case_id": 128,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "02_text_gibberish/02_text_gibberish_029.jpg",
+      "image_num": 129,
+      "case_id": 129,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "02_text_gibberish/02_text_gibberish_030.jpg",
+      "image_num": 130,
+      "case_id": 130,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "02_text_gibberish/02_text_gibberish_031.jpg",
+      "image_num": 131,
+      "case_id": 131,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "02_text_gibberish/02_text_gibberish_032.jpg",
+      "image_num": 132,
+      "case_id": 132,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "02_text_gibberish/02_text_gibberish_033.jpg",
+      "image_num": 133,
+      "case_id": 133,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "02_text_gibberish/02_text_gibberish_034.jpg",
+      "image_num": 134,
+      "case_id": 134,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "02_text_gibberish/02_text_gibberish_035.jpg",
+      "image_num": 135,
+      "case_id": 135,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "02_text_gibberish/02_text_gibberish_036.jpg",
+      "image_num": 136,
+      "case_id": 136,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "02_text_gibberish/02_text_gibberish_037.jpg",
+      "image_num": 137,
+      "case_id": 137,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "02_text_gibberish/02_text_gibberish_038.jpg",
+      "image_num": 138,
+      "case_id": 138,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "02_text_gibberish/02_text_gibberish_039.jpg",
+      "image_num": 139,
+      "case_id": 139,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "02_text_gibberish/02_text_gibberish_040.jpg",
+      "image_num": 140,
+      "case_id": 140,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "02_text_gibberish/02_text_gibberish_041.jpg",
+      "image_num": 141,
+      "case_id": 141,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "02_text_gibberish/02_text_gibberish_042.jpg",
+      "image_num": 142,
+      "case_id": 142,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "02_text_gibberish/02_text_gibberish_043.jpg",
+      "image_num": 143,
+      "case_id": 143,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "02_text_gibberish/02_text_gibberish_044.jpg",
+      "image_num": 144,
+      "case_id": 144,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "02_text_gibberish/02_text_gibberish_045.jpg",
+      "image_num": 145,
+      "case_id": 145,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "02_text_gibberish/02_text_gibberish_046.jpg",
+      "image_num": 146,
+      "case_id": 146,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "02_text_gibberish/02_text_gibberish_047.jpg",
+      "image_num": 147,
+      "case_id": 147,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "02_text_gibberish/02_text_gibberish_048.jpg",
+      "image_num": 148,
+      "case_id": 148,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "02_text_gibberish/02_text_gibberish_049.jpg",
+      "image_num": 149,
+      "case_id": 149,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "02_text_gibberish/02_text_gibberish_050.jpg",
+      "image_num": 150,
+      "case_id": 150,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "02_text_gibberish/02_text_gibberish_051.jpg",
+      "image_num": 151,
+      "case_id": 151,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "02_text_gibberish/02_text_gibberish_052.jpg",
+      "image_num": 152,
+      "case_id": 152,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "02_text_gibberish/02_text_gibberish_053.jpg",
+      "image_num": 153,
+      "case_id": 153,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "02_text_gibberish/02_text_gibberish_054.jpg",
+      "image_num": 154,
+      "case_id": 154,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "02_text_gibberish/02_text_gibberish_055.jpg",
+      "image_num": 155,
+      "case_id": 155,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "02_text_gibberish/02_text_gibberish_056.jpg",
+      "image_num": 156,
+      "case_id": 156,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "02_text_gibberish/02_text_gibberish_057.jpg",
+      "image_num": 157,
+      "case_id": 157,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "02_text_gibberish/02_text_gibberish_058.jpg",
+      "image_num": 158,
+      "case_id": 158,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "02_text_gibberish/02_text_gibberish_059.jpg",
+      "image_num": 159,
+      "case_id": 159,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "02_text_gibberish/02_text_gibberish_060.jpg",
+      "image_num": 160,
+      "case_id": 160,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "02_text_gibberish/02_text_gibberish_061.jpg",
+      "image_num": 161,
+      "case_id": 161,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "02_text_gibberish/02_text_gibberish_062.jpg",
+      "image_num": 162,
+      "case_id": 162,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "02_text_gibberish/02_text_gibberish_063.jpg",
+      "image_num": 163,
+      "case_id": 163,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "02_text_gibberish/02_text_gibberish_064.jpg",
+      "image_num": 164,
+      "case_id": 164,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "02_text_gibberish/02_text_gibberish_065.jpg",
+      "image_num": 165,
+      "case_id": 165,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "02_text_gibberish/02_text_gibberish_066.jpg",
+      "image_num": 166,
+      "case_id": 166,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "02_text_gibberish/02_text_gibberish_067.jpg",
+      "image_num": 167,
+      "case_id": 167,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "02_text_gibberish/02_text_gibberish_068.jpg",
+      "image_num": 168,
+      "case_id": 168,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "02_text_gibberish/02_text_gibberish_069.jpg",
+      "image_num": 169,
+      "case_id": 169,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "02_text_gibberish/02_text_gibberish_070.png",
+      "image_num": 170,
+      "case_id": 170,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "02_text_gibberish/02_text_gibberish_071.jpg",
+      "image_num": 171,
+      "case_id": 171,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "02_text_gibberish/02_text_gibberish_072.jpg",
+      "image_num": 172,
+      "case_id": 172,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "02_text_gibberish/02_text_gibberish_073.jpg",
+      "image_num": 173,
+      "case_id": 173,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "02_text_gibberish/02_text_gibberish_074.jpg",
+      "image_num": 174,
+      "case_id": 174,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "02_text_gibberish/02_text_gibberish_075.jpg",
+      "image_num": 175,
+      "case_id": 175,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "02_text_gibberish/02_text_gibberish_076.jpg",
+      "image_num": 176,
+      "case_id": 176,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "02_text_gibberish/02_text_gibberish_077.jpg",
+      "image_num": 177,
+      "case_id": 177,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "02_text_gibberish/02_text_gibberish_078.jpg",
+      "image_num": 178,
+      "case_id": 178,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "02_text_gibberish/02_text_gibberish_079.jpg",
+      "image_num": 179,
+      "case_id": 179,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "02_text_gibberish/02_text_gibberish_080.jpg",
+      "image_num": 180,
+      "case_id": 180,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "02_text_gibberish/02_text_gibberish_081.jpg",
+      "image_num": 181,
+      "case_id": 181,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "02_text_gibberish/02_text_gibberish_082.jpg",
+      "image_num": 182,
+      "case_id": 182,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "02_text_gibberish/02_text_gibberish_083.jpg",
+      "image_num": 183,
+      "case_id": 183,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "02_text_gibberish/02_text_gibberish_084.jpg",
+      "image_num": 184,
+      "case_id": 184,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "02_text_gibberish/02_text_gibberish_085.jpg",
+      "image_num": 185,
+      "case_id": 185,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "02_text_gibberish/02_text_gibberish_086.jpg",
+      "image_num": 186,
+      "case_id": 186,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "02_text_gibberish/02_text_gibberish_087.jpg",
+      "image_num": 187,
+      "case_id": 187,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "02_text_gibberish/02_text_gibberish_088.jpg",
+      "image_num": 188,
+      "case_id": 188,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "02_text_gibberish/02_text_gibberish_089.jpg",
+      "image_num": 189,
+      "case_id": 189,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "02_text_gibberish/02_text_gibberish_090.jpg",
+      "image_num": 190,
+      "case_id": 190,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "02_text_gibberish/02_text_gibberish_091.jpg",
+      "image_num": 191,
+      "case_id": 191,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "02_text_gibberish/02_text_gibberish_092.jpg",
+      "image_num": 192,
+      "case_id": 192,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "02_text_gibberish/02_text_gibberish_093.jpg",
+      "image_num": 193,
+      "case_id": 193,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "02_text_gibberish/02_text_gibberish_094.jpg",
+      "image_num": 194,
+      "case_id": 194,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "02_text_gibberish/02_text_gibberish_095.jpg",
+      "image_num": 195,
+      "case_id": 195,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "02_text_gibberish/02_text_gibberish_096.jpg",
+      "image_num": 196,
+      "case_id": 196,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "02_text_gibberish/02_text_gibberish_097.jpg",
+      "image_num": 197,
+      "case_id": 197,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "02_text_gibberish/02_text_gibberish_098.jpg",
+      "image_num": 198,
+      "case_id": 198,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "02_text_gibberish/02_text_gibberish_099.jpg",
+      "image_num": 199,
+      "case_id": 199,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "02_text_gibberish/02_text_gibberish_100.jpg",
+      "image_num": 200,
+      "case_id": 200,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "03_text_blank/03_text_blank_001.jpg",
+      "image_num": 201,
+      "case_id": 201,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "03_text_blank/03_text_blank_002.jpg",
+      "image_num": 202,
+      "case_id": 202,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "03_text_blank/03_text_blank_003.jpg",
+      "image_num": 203,
+      "case_id": 203,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "03_text_blank/03_text_blank_004.jpg",
+      "image_num": 204,
+      "case_id": 204,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "03_text_blank/03_text_blank_005.jpg",
+      "image_num": 205,
+      "case_id": 205,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "03_text_blank/03_text_blank_006.jpg",
+      "image_num": 206,
+      "case_id": 206,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "03_text_blank/03_text_blank_007.jpg",
+      "image_num": 207,
+      "case_id": 207,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "03_text_blank/03_text_blank_008.jpg",
+      "image_num": 208,
+      "case_id": 208,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "03_text_blank/03_text_blank_009.jpg",
+      "image_num": 209,
+      "case_id": 209,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "03_text_blank/03_text_blank_010.jpg",
+      "image_num": 210,
+      "case_id": 210,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "03_text_blank/03_text_blank_011.png",
+      "image_num": 211,
+      "case_id": 211,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "03_text_blank/03_text_blank_012.jpg",
+      "image_num": 212,
+      "case_id": 212,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "03_text_blank/03_text_blank_013.jpg",
+      "image_num": 213,
+      "case_id": 213,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "03_text_blank/03_text_blank_014.jpg",
+      "image_num": 214,
+      "case_id": 214,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "03_text_blank/03_text_blank_015.jpg",
+      "image_num": 215,
+      "case_id": 215,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "03_text_blank/03_text_blank_016.jpg",
+      "image_num": 216,
+      "case_id": 216,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "03_text_blank/03_text_blank_017.jpg",
+      "image_num": 217,
+      "case_id": 217,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "03_text_blank/03_text_blank_018.jpg",
+      "image_num": 218,
+      "case_id": 218,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "03_text_blank/03_text_blank_019.jpg",
+      "image_num": 219,
+      "case_id": 219,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "03_text_blank/03_text_blank_020.jpg",
+      "image_num": 220,
+      "case_id": 220,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "03_text_blank/03_text_blank_021.jpg",
+      "image_num": 221,
+      "case_id": 221,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "03_text_blank/03_text_blank_022.jpg",
+      "image_num": 222,
+      "case_id": 222,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "03_text_blank/03_text_blank_023.jpg",
+      "image_num": 223,
+      "case_id": 223,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "03_text_blank/03_text_blank_024.jpg",
+      "image_num": 224,
+      "case_id": 224,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "03_text_blank/03_text_blank_025.jpg",
+      "image_num": 225,
+      "case_id": 225,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "03_text_blank/03_text_blank_026.jpg",
+      "image_num": 226,
+      "case_id": 226,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "03_text_blank/03_text_blank_027.jpg",
+      "image_num": 227,
+      "case_id": 227,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "03_text_blank/03_text_blank_028.jpg",
+      "image_num": 228,
+      "case_id": 228,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "03_text_blank/03_text_blank_029.jpg",
+      "image_num": 229,
+      "case_id": 229,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "03_text_blank/03_text_blank_030.jpg",
+      "image_num": 230,
+      "case_id": 230,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "03_text_blank/03_text_blank_031.jpg",
+      "image_num": 231,
+      "case_id": 231,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "03_text_blank/03_text_blank_032.jpg",
+      "image_num": 232,
+      "case_id": 232,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "03_text_blank/03_text_blank_033.jpg",
+      "image_num": 233,
+      "case_id": 233,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "03_text_blank/03_text_blank_034.jpg",
+      "image_num": 234,
+      "case_id": 234,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "03_text_blank/03_text_blank_035.jpg",
+      "image_num": 235,
+      "case_id": 235,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "03_text_blank/03_text_blank_036.jpg",
+      "image_num": 236,
+      "case_id": 236,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "03_text_blank/03_text_blank_037.jpg",
+      "image_num": 237,
+      "case_id": 237,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "03_text_blank/03_text_blank_038.jpg",
+      "image_num": 238,
+      "case_id": 238,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "03_text_blank/03_text_blank_039.jpg",
+      "image_num": 239,
+      "case_id": 239,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "03_text_blank/03_text_blank_040.jpg",
+      "image_num": 240,
+      "case_id": 240,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "03_text_blank/03_text_blank_041.jpg",
+      "image_num": 241,
+      "case_id": 241,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "03_text_blank/03_text_blank_042.jpg",
+      "image_num": 242,
+      "case_id": 242,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "03_text_blank/03_text_blank_043.jpg",
+      "image_num": 243,
+      "case_id": 243,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "03_text_blank/03_text_blank_044.jpg",
+      "image_num": 244,
+      "case_id": 244,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "03_text_blank/03_text_blank_045.jpg",
+      "image_num": 245,
+      "case_id": 245,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "03_text_blank/03_text_blank_046.jpg",
+      "image_num": 246,
+      "case_id": 246,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "03_text_blank/03_text_blank_047.jpg",
+      "image_num": 247,
+      "case_id": 247,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "03_text_blank/03_text_blank_048.jpg",
+      "image_num": 248,
+      "case_id": 248,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "03_text_blank/03_text_blank_049.jpg",
+      "image_num": 249,
+      "case_id": 249,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "03_text_blank/03_text_blank_050.jpg",
+      "image_num": 250,
+      "case_id": 250,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "03_text_blank/03_text_blank_051.jpg",
+      "image_num": 251,
+      "case_id": 251,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "03_text_blank/03_text_blank_052.jpg",
+      "image_num": 252,
+      "case_id": 252,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "03_text_blank/03_text_blank_053.jpg",
+      "image_num": 253,
+      "case_id": 253,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "03_text_blank/03_text_blank_054.jpg",
+      "image_num": 254,
+      "case_id": 254,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "03_text_blank/03_text_blank_055.jpg",
+      "image_num": 255,
+      "case_id": 255,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "03_text_blank/03_text_blank_056.jpg",
+      "image_num": 256,
+      "case_id": 256,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "03_text_blank/03_text_blank_057.jpg",
+      "image_num": 257,
+      "case_id": 257,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "03_text_blank/03_text_blank_058.jpg",
+      "image_num": 258,
+      "case_id": 258,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "03_text_blank/03_text_blank_059.jpg",
+      "image_num": 259,
+      "case_id": 259,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "03_text_blank/03_text_blank_060.jpg",
+      "image_num": 260,
+      "case_id": 260,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "03_text_blank/03_text_blank_061.jpg",
+      "image_num": 261,
+      "case_id": 261,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "03_text_blank/03_text_blank_062.jpg",
+      "image_num": 262,
+      "case_id": 262,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "03_text_blank/03_text_blank_063.jpg",
+      "image_num": 263,
+      "case_id": 263,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "03_text_blank/03_text_blank_064.jpg",
+      "image_num": 264,
+      "case_id": 264,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "03_text_blank/03_text_blank_065.jpg",
+      "image_num": 265,
+      "case_id": 265,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "03_text_blank/03_text_blank_066.jpg",
+      "image_num": 266,
+      "case_id": 266,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "03_text_blank/03_text_blank_067.jpg",
+      "image_num": 267,
+      "case_id": 267,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "03_text_blank/03_text_blank_068.jpg",
+      "image_num": 268,
+      "case_id": 268,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "03_text_blank/03_text_blank_069.jpg",
+      "image_num": 269,
+      "case_id": 269,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "03_text_blank/03_text_blank_070.jpg",
+      "image_num": 270,
+      "case_id": 270,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "03_text_blank/03_text_blank_071.jpg",
+      "image_num": 271,
+      "case_id": 271,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "03_text_blank/03_text_blank_072.jpg",
+      "image_num": 272,
+      "case_id": 272,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "03_text_blank/03_text_blank_073.jpg",
+      "image_num": 273,
+      "case_id": 273,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "03_text_blank/03_text_blank_074.jpg",
+      "image_num": 274,
+      "case_id": 274,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "03_text_blank/03_text_blank_075.jpg",
+      "image_num": 275,
+      "case_id": 275,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "03_text_blank/03_text_blank_076.jpg",
+      "image_num": 276,
+      "case_id": 276,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "03_text_blank/03_text_blank_077.jpg",
+      "image_num": 277,
+      "case_id": 277,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "03_text_blank/03_text_blank_078.jpg",
+      "image_num": 278,
+      "case_id": 278,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "03_text_blank/03_text_blank_079.jpg",
+      "image_num": 279,
+      "case_id": 279,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "03_text_blank/03_text_blank_080.jpg",
+      "image_num": 280,
+      "case_id": 280,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "03_text_blank/03_text_blank_081.jpg",
+      "image_num": 281,
+      "case_id": 281,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "03_text_blank/03_text_blank_082.jpg",
+      "image_num": 282,
+      "case_id": 282,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "03_text_blank/03_text_blank_083.jpg",
+      "image_num": 283,
+      "case_id": 283,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "03_text_blank/03_text_blank_084.jpg",
+      "image_num": 284,
+      "case_id": 284,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "03_text_blank/03_text_blank_085.jpg",
+      "image_num": 285,
+      "case_id": 285,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "03_text_blank/03_text_blank_086.jpg",
+      "image_num": 286,
+      "case_id": 286,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "03_text_blank/03_text_blank_087.jpg",
+      "image_num": 287,
+      "case_id": 287,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "03_text_blank/03_text_blank_088.jpg",
+      "image_num": 288,
+      "case_id": 288,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "03_text_blank/03_text_blank_089.jpg",
+      "image_num": 289,
+      "case_id": 289,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "03_text_blank/03_text_blank_090.jpg",
+      "image_num": 290,
+      "case_id": 290,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "03_text_blank/03_text_blank_091.jpg",
+      "image_num": 291,
+      "case_id": 291,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "03_text_blank/03_text_blank_092.jpg",
+      "image_num": 292,
+      "case_id": 292,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "03_text_blank/03_text_blank_093.jpg",
+      "image_num": 293,
+      "case_id": 293,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "03_text_blank/03_text_blank_094.jpg",
+      "image_num": 294,
+      "case_id": 294,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "03_text_blank/03_text_blank_095.jpg",
+      "image_num": 295,
+      "case_id": 295,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "03_text_blank/03_text_blank_096.jpg",
+      "image_num": 296,
+      "case_id": 296,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "03_text_blank/03_text_blank_097.jpg",
+      "image_num": 297,
+      "case_id": 297,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "03_text_blank/03_text_blank_098.jpg",
+      "image_num": 298,
+      "case_id": 298,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "03_text_blank/03_text_blank_099.jpg",
+      "image_num": 299,
+      "case_id": 299,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "03_text_blank/03_text_blank_100.jpg",
+      "image_num": 300,
+      "case_id": 300,
+      "absent_object": "legible badge text"
+    },
+    {
+      "image_file": "04_time_fix/04_time_fix_001.jpg",
+      "image_num": 301,
+      "case_id": 301,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "04_time_fix/04_time_fix_002.jpg",
+      "image_num": 302,
+      "case_id": 302,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "04_time_fix/04_time_fix_003.jpg",
+      "image_num": 303,
+      "case_id": 303,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "04_time_fix/04_time_fix_004.jpg",
+      "image_num": 304,
+      "case_id": 304,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "04_time_fix/04_time_fix_005.jpg",
+      "image_num": 305,
+      "case_id": 305,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "04_time_fix/04_time_fix_006.jpg",
+      "image_num": 306,
+      "case_id": 306,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "04_time_fix/04_time_fix_007.jpg",
+      "image_num": 307,
+      "case_id": 307,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "04_time_fix/04_time_fix_008.jpg",
+      "image_num": 308,
+      "case_id": 308,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "04_time_fix/04_time_fix_009.jpg",
+      "image_num": 309,
+      "case_id": 309,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "04_time_fix/04_time_fix_010.jpg",
+      "image_num": 310,
+      "case_id": 310,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "04_time_fix/04_time_fix_011.jpg",
+      "image_num": 311,
+      "case_id": 311,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "04_time_fix/04_time_fix_012.jpg",
+      "image_num": 312,
+      "case_id": 312,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "04_time_fix/04_time_fix_013.jpg",
+      "image_num": 313,
+      "case_id": 313,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "04_time_fix/04_time_fix_014.jpg",
+      "image_num": 314,
+      "case_id": 314,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "04_time_fix/04_time_fix_015.jpg",
+      "image_num": 315,
+      "case_id": 315,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "04_time_fix/04_time_fix_016.jpg",
+      "image_num": 316,
+      "case_id": 316,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "04_time_fix/04_time_fix_017.jpg",
+      "image_num": 317,
+      "case_id": 317,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "04_time_fix/04_time_fix_018.jpg",
+      "image_num": 318,
+      "case_id": 318,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "04_time_fix/04_time_fix_019.jpg",
+      "image_num": 319,
+      "case_id": 319,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "04_time_fix/04_time_fix_020.jpg",
+      "image_num": 320,
+      "case_id": 320,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "04_time_fix/04_time_fix_021.jpg",
+      "image_num": 321,
+      "case_id": 321,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "04_time_fix/04_time_fix_022.jpg",
+      "image_num": 322,
+      "case_id": 322,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "04_time_fix/04_time_fix_023.jpg",
+      "image_num": 323,
+      "case_id": 323,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "04_time_fix/04_time_fix_024.jpg",
+      "image_num": 324,
+      "case_id": 324,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "04_time_fix/04_time_fix_025.jpg",
+      "image_num": 325,
+      "case_id": 325,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "04_time_fix/04_time_fix_026.jpg",
+      "image_num": 326,
+      "case_id": 326,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "04_time_fix/04_time_fix_027.jpg",
+      "image_num": 327,
+      "case_id": 327,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "04_time_fix/04_time_fix_028.jpg",
+      "image_num": 328,
+      "case_id": 328,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "04_time_fix/04_time_fix_029.jpg",
+      "image_num": 329,
+      "case_id": 329,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "04_time_fix/04_time_fix_030.jpg",
+      "image_num": 330,
+      "case_id": 330,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "04_time_fix/04_time_fix_031.jpg",
+      "image_num": 331,
+      "case_id": 331,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "04_time_fix/04_time_fix_032.jpg",
+      "image_num": 332,
+      "case_id": 332,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "04_time_fix/04_time_fix_033.jpg",
+      "image_num": 333,
+      "case_id": 333,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "04_time_fix/04_time_fix_034.jpg",
+      "image_num": 334,
+      "case_id": 334,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "04_time_fix/04_time_fix_035.jpg",
+      "image_num": 335,
+      "case_id": 335,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "04_time_fix/04_time_fix_036.jpg",
+      "image_num": 336,
+      "case_id": 336,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "04_time_fix/04_time_fix_037.jpg",
+      "image_num": 337,
+      "case_id": 337,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "04_time_fix/04_time_fix_038.jpg",
+      "image_num": 338,
+      "case_id": 338,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "04_time_fix/04_time_fix_039.jpg",
+      "image_num": 339,
+      "case_id": 339,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "04_time_fix/04_time_fix_040.jpg",
+      "image_num": 340,
+      "case_id": 340,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "04_time_fix/04_time_fix_041.jpg",
+      "image_num": 341,
+      "case_id": 341,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "04_time_fix/04_time_fix_042.jpg",
+      "image_num": 342,
+      "case_id": 342,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "04_time_fix/04_time_fix_043.jpg",
+      "image_num": 343,
+      "case_id": 343,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "04_time_fix/04_time_fix_044.jpg",
+      "image_num": 344,
+      "case_id": 344,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "04_time_fix/04_time_fix_045.jpg",
+      "image_num": 345,
+      "case_id": 345,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "04_time_fix/04_time_fix_046.jpg",
+      "image_num": 346,
+      "case_id": 346,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "04_time_fix/04_time_fix_047.jpg",
+      "image_num": 347,
+      "case_id": 347,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "04_time_fix/04_time_fix_048.jpg",
+      "image_num": 348,
+      "case_id": 348,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "04_time_fix/04_time_fix_049.jpg",
+      "image_num": 349,
+      "case_id": 349,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "04_time_fix/04_time_fix_050.jpg",
+      "image_num": 350,
+      "case_id": 350,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "04_time_fix/04_time_fix_051.jpg",
+      "image_num": 351,
+      "case_id": 351,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "04_time_fix/04_time_fix_052.jpg",
+      "image_num": 352,
+      "case_id": 352,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "04_time_fix/04_time_fix_053.jpg",
+      "image_num": 353,
+      "case_id": 353,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "04_time_fix/04_time_fix_054.jpg",
+      "image_num": 354,
+      "case_id": 354,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "04_time_fix/04_time_fix_055.jpg",
+      "image_num": 355,
+      "case_id": 355,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "04_time_fix/04_time_fix_056.jpg",
+      "image_num": 356,
+      "case_id": 356,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "04_time_fix/04_time_fix_057.jpg",
+      "image_num": 357,
+      "case_id": 357,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "04_time_fix/04_time_fix_058.jpg",
+      "image_num": 358,
+      "case_id": 358,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "04_time_fix/04_time_fix_059.jpg",
+      "image_num": 359,
+      "case_id": 359,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "04_time_fix/04_time_fix_060.jpg",
+      "image_num": 360,
+      "case_id": 360,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "04_time_fix/04_time_fix_061.jpg",
+      "image_num": 361,
+      "case_id": 361,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "04_time_fix/04_time_fix_062.jpg",
+      "image_num": 362,
+      "case_id": 362,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "04_time_fix/04_time_fix_063.jpg",
+      "image_num": 363,
+      "case_id": 363,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "04_time_fix/04_time_fix_064.jpg",
+      "image_num": 364,
+      "case_id": 364,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "04_time_fix/04_time_fix_065.jpg",
+      "image_num": 365,
+      "case_id": 365,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "04_time_fix/04_time_fix_066.jpg",
+      "image_num": 366,
+      "case_id": 366,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "04_time_fix/04_time_fix_067.jpg",
+      "image_num": 367,
+      "case_id": 367,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "04_time_fix/04_time_fix_068.jpg",
+      "image_num": 368,
+      "case_id": 368,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "04_time_fix/04_time_fix_069.jpg",
+      "image_num": 369,
+      "case_id": 369,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "04_time_fix/04_time_fix_070.jpg",
+      "image_num": 370,
+      "case_id": 370,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "04_time_fix/04_time_fix_071.jpg",
+      "image_num": 371,
+      "case_id": 371,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "04_time_fix/04_time_fix_072.jpg",
+      "image_num": 372,
+      "case_id": 372,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "04_time_fix/04_time_fix_073.jpg",
+      "image_num": 373,
+      "case_id": 373,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "04_time_fix/04_time_fix_074.jpg",
+      "image_num": 374,
+      "case_id": 374,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "04_time_fix/04_time_fix_075.jpg",
+      "image_num": 375,
+      "case_id": 375,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "04_time_fix/04_time_fix_076.jpg",
+      "image_num": 376,
+      "case_id": 376,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "04_time_fix/04_time_fix_077.jpg",
+      "image_num": 377,
+      "case_id": 377,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "04_time_fix/04_time_fix_078.jpg",
+      "image_num": 378,
+      "case_id": 378,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "04_time_fix/04_time_fix_079.jpg",
+      "image_num": 379,
+      "case_id": 379,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "04_time_fix/04_time_fix_080.jpg",
+      "image_num": 380,
+      "case_id": 380,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "04_time_fix/04_time_fix_081.jpg",
+      "image_num": 381,
+      "case_id": 381,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "04_time_fix/04_time_fix_082.jpg",
+      "image_num": 382,
+      "case_id": 382,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "04_time_fix/04_time_fix_083.jpg",
+      "image_num": 383,
+      "case_id": 383,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "04_time_fix/04_time_fix_084.jpg",
+      "image_num": 384,
+      "case_id": 384,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "04_time_fix/04_time_fix_085.jpg",
+      "image_num": 385,
+      "case_id": 385,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "04_time_fix/04_time_fix_086.jpg",
+      "image_num": 386,
+      "case_id": 386,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "04_time_fix/04_time_fix_087.jpg",
+      "image_num": 387,
+      "case_id": 387,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "04_time_fix/04_time_fix_088.jpg",
+      "image_num": 388,
+      "case_id": 388,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "04_time_fix/04_time_fix_089.jpg",
+      "image_num": 389,
+      "case_id": 389,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "04_time_fix/04_time_fix_090.jpg",
+      "image_num": 390,
+      "case_id": 390,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "04_time_fix/04_time_fix_091.jpg",
+      "image_num": 391,
+      "case_id": 391,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "04_time_fix/04_time_fix_092.jpg",
+      "image_num": 392,
+      "case_id": 392,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "04_time_fix/04_time_fix_093.jpg",
+      "image_num": 393,
+      "case_id": 393,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "04_time_fix/04_time_fix_094.jpg",
+      "image_num": 394,
+      "case_id": 394,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "04_time_fix/04_time_fix_095.jpg",
+      "image_num": 395,
+      "case_id": 395,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "04_time_fix/04_time_fix_096.jpg",
+      "image_num": 396,
+      "case_id": 396,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "04_time_fix/04_time_fix_097.jpg",
+      "image_num": 397,
+      "case_id": 397,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "04_time_fix/04_time_fix_098.jpg",
+      "image_num": 398,
+      "case_id": 398,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "04_time_fix/04_time_fix_099.jpg",
+      "image_num": 399,
+      "case_id": 399,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "04_time_fix/04_time_fix_100.jpg",
+      "image_num": 400,
+      "case_id": 400,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "05_analog_decoy/05_analog_decoy_001.jpg",
+      "image_num": 401,
+      "case_id": 401,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "05_analog_decoy/05_analog_decoy_002.jpg",
+      "image_num": 402,
+      "case_id": 402,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "05_analog_decoy/05_analog_decoy_003.jpg",
+      "image_num": 403,
+      "case_id": 403,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "05_analog_decoy/05_analog_decoy_004.jpg",
+      "image_num": 404,
+      "case_id": 404,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "05_analog_decoy/05_analog_decoy_005.jpg",
+      "image_num": 405,
+      "case_id": 405,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "05_analog_decoy/05_analog_decoy_006.jpg",
+      "image_num": 406,
+      "case_id": 406,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "05_analog_decoy/05_analog_decoy_007.jpg",
+      "image_num": 407,
+      "case_id": 407,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "05_analog_decoy/05_analog_decoy_008.jpg",
+      "image_num": 408,
+      "case_id": 408,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "05_analog_decoy/05_analog_decoy_009.jpg",
+      "image_num": 409,
+      "case_id": 409,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "05_analog_decoy/05_analog_decoy_010.jpg",
+      "image_num": 410,
+      "case_id": 410,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "05_analog_decoy/05_analog_decoy_011.jpg",
+      "image_num": 411,
+      "case_id": 411,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "05_analog_decoy/05_analog_decoy_012.jpg",
+      "image_num": 412,
+      "case_id": 412,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "05_analog_decoy/05_analog_decoy_013.jpg",
+      "image_num": 413,
+      "case_id": 413,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "05_analog_decoy/05_analog_decoy_014.jpg",
+      "image_num": 414,
+      "case_id": 414,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "05_analog_decoy/05_analog_decoy_015.jpg",
+      "image_num": 415,
+      "case_id": 415,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "05_analog_decoy/05_analog_decoy_016.jpg",
+      "image_num": 416,
+      "case_id": 416,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "05_analog_decoy/05_analog_decoy_017.jpg",
+      "image_num": 417,
+      "case_id": 417,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "05_analog_decoy/05_analog_decoy_018.jpg",
+      "image_num": 418,
+      "case_id": 418,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "05_analog_decoy/05_analog_decoy_019.jpg",
+      "image_num": 419,
+      "case_id": 419,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "05_analog_decoy/05_analog_decoy_020.jpg",
+      "image_num": 420,
+      "case_id": 420,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "05_analog_decoy/05_analog_decoy_021.jpg",
+      "image_num": 421,
+      "case_id": 421,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "05_analog_decoy/05_analog_decoy_022.jpg",
+      "image_num": 422,
+      "case_id": 422,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "05_analog_decoy/05_analog_decoy_023.jpg",
+      "image_num": 423,
+      "case_id": 423,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "05_analog_decoy/05_analog_decoy_024.jpg",
+      "image_num": 424,
+      "case_id": 424,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "05_analog_decoy/05_analog_decoy_025.jpg",
+      "image_num": 425,
+      "case_id": 425,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "05_analog_decoy/05_analog_decoy_026.jpg",
+      "image_num": 426,
+      "case_id": 426,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "05_analog_decoy/05_analog_decoy_027.jpg",
+      "image_num": 427,
+      "case_id": 427,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "05_analog_decoy/05_analog_decoy_028.jpg",
+      "image_num": 428,
+      "case_id": 428,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "05_analog_decoy/05_analog_decoy_029.jpg",
+      "image_num": 429,
+      "case_id": 429,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "05_analog_decoy/05_analog_decoy_030.jpg",
+      "image_num": 430,
+      "case_id": 430,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "05_analog_decoy/05_analog_decoy_031.jpg",
+      "image_num": 431,
+      "case_id": 431,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "05_analog_decoy/05_analog_decoy_032.jpg",
+      "image_num": 432,
+      "case_id": 432,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "05_analog_decoy/05_analog_decoy_033.jpg",
+      "image_num": 433,
+      "case_id": 433,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "05_analog_decoy/05_analog_decoy_034.jpg",
+      "image_num": 434,
+      "case_id": 434,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "05_analog_decoy/05_analog_decoy_035.jpg",
+      "image_num": 435,
+      "case_id": 435,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "05_analog_decoy/05_analog_decoy_036.jpg",
+      "image_num": 436,
+      "case_id": 436,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "05_analog_decoy/05_analog_decoy_037.jpg",
+      "image_num": 437,
+      "case_id": 437,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "05_analog_decoy/05_analog_decoy_038.jpg",
+      "image_num": 438,
+      "case_id": 438,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "05_analog_decoy/05_analog_decoy_039.jpg",
+      "image_num": 439,
+      "case_id": 439,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "05_analog_decoy/05_analog_decoy_040.jpg",
+      "image_num": 440,
+      "case_id": 440,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "05_analog_decoy/05_analog_decoy_041.jpg",
+      "image_num": 441,
+      "case_id": 441,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "05_analog_decoy/05_analog_decoy_042.jpg",
+      "image_num": 442,
+      "case_id": 442,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "05_analog_decoy/05_analog_decoy_043.jpg",
+      "image_num": 443,
+      "case_id": 443,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "05_analog_decoy/05_analog_decoy_044.jpg",
+      "image_num": 444,
+      "case_id": 444,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "05_analog_decoy/05_analog_decoy_045.jpg",
+      "image_num": 445,
+      "case_id": 445,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "05_analog_decoy/05_analog_decoy_046.jpg",
+      "image_num": 446,
+      "case_id": 446,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "05_analog_decoy/05_analog_decoy_047.jpg",
+      "image_num": 447,
+      "case_id": 447,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "05_analog_decoy/05_analog_decoy_048.jpg",
+      "image_num": 448,
+      "case_id": 448,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "05_analog_decoy/05_analog_decoy_049.jpg",
+      "image_num": 449,
+      "case_id": 449,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "05_analog_decoy/05_analog_decoy_050.jpg",
+      "image_num": 450,
+      "case_id": 450,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "05_analog_decoy/05_analog_decoy_051.jpg",
+      "image_num": 451,
+      "case_id": 451,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "05_analog_decoy/05_analog_decoy_052.jpg",
+      "image_num": 452,
+      "case_id": 452,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "05_analog_decoy/05_analog_decoy_053.jpg",
+      "image_num": 453,
+      "case_id": 453,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "05_analog_decoy/05_analog_decoy_054.jpg",
+      "image_num": 454,
+      "case_id": 454,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "05_analog_decoy/05_analog_decoy_055.jpg",
+      "image_num": 455,
+      "case_id": 455,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "05_analog_decoy/05_analog_decoy_056.jpg",
+      "image_num": 456,
+      "case_id": 456,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "05_analog_decoy/05_analog_decoy_057.jpg",
+      "image_num": 457,
+      "case_id": 457,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "05_analog_decoy/05_analog_decoy_058.jpg",
+      "image_num": 458,
+      "case_id": 458,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "05_analog_decoy/05_analog_decoy_059.jpg",
+      "image_num": 459,
+      "case_id": 459,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "05_analog_decoy/05_analog_decoy_060.jpg",
+      "image_num": 460,
+      "case_id": 460,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "05_analog_decoy/05_analog_decoy_061.jpg",
+      "image_num": 461,
+      "case_id": 461,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "05_analog_decoy/05_analog_decoy_062.jpg",
+      "image_num": 462,
+      "case_id": 462,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "05_analog_decoy/05_analog_decoy_063.jpg",
+      "image_num": 463,
+      "case_id": 463,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "05_analog_decoy/05_analog_decoy_064.jpg",
+      "image_num": 464,
+      "case_id": 464,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "05_analog_decoy/05_analog_decoy_065.jpg",
+      "image_num": 465,
+      "case_id": 465,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "05_analog_decoy/05_analog_decoy_066.jpg",
+      "image_num": 466,
+      "case_id": 466,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "05_analog_decoy/05_analog_decoy_067.jpg",
+      "image_num": 467,
+      "case_id": 467,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "05_analog_decoy/05_analog_decoy_068.jpg",
+      "image_num": 468,
+      "case_id": 468,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "05_analog_decoy/05_analog_decoy_069.jpg",
+      "image_num": 469,
+      "case_id": 469,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "05_analog_decoy/05_analog_decoy_070.jpg",
+      "image_num": 470,
+      "case_id": 470,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "05_analog_decoy/05_analog_decoy_071.jpg",
+      "image_num": 471,
+      "case_id": 471,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "05_analog_decoy/05_analog_decoy_072.jpg",
+      "image_num": 472,
+      "case_id": 472,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "05_analog_decoy/05_analog_decoy_073.jpg",
+      "image_num": 473,
+      "case_id": 473,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "05_analog_decoy/05_analog_decoy_074.jpg",
+      "image_num": 474,
+      "case_id": 474,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "05_analog_decoy/05_analog_decoy_075.jpg",
+      "image_num": 475,
+      "case_id": 475,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "05_analog_decoy/05_analog_decoy_076.jpg",
+      "image_num": 476,
+      "case_id": 476,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "05_analog_decoy/05_analog_decoy_077.jpg",
+      "image_num": 477,
+      "case_id": 477,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "05_analog_decoy/05_analog_decoy_078.jpg",
+      "image_num": 478,
+      "case_id": 478,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "05_analog_decoy/05_analog_decoy_079.jpg",
+      "image_num": 479,
+      "case_id": 479,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "05_analog_decoy/05_analog_decoy_080.jpg",
+      "image_num": 480,
+      "case_id": 480,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "05_analog_decoy/05_analog_decoy_081.jpg",
+      "image_num": 481,
+      "case_id": 481,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "05_analog_decoy/05_analog_decoy_082.jpg",
+      "image_num": 482,
+      "case_id": 482,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "05_analog_decoy/05_analog_decoy_083.jpg",
+      "image_num": 483,
+      "case_id": 483,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "05_analog_decoy/05_analog_decoy_084.jpg",
+      "image_num": 484,
+      "case_id": 484,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "05_analog_decoy/05_analog_decoy_085.jpg",
+      "image_num": 485,
+      "case_id": 485,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "05_analog_decoy/05_analog_decoy_086.jpg",
+      "image_num": 486,
+      "case_id": 486,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "05_analog_decoy/05_analog_decoy_087.jpg",
+      "image_num": 487,
+      "case_id": 487,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "05_analog_decoy/05_analog_decoy_088.jpg",
+      "image_num": 488,
+      "case_id": 488,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "05_analog_decoy/05_analog_decoy_089.jpg",
+      "image_num": 489,
+      "case_id": 489,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "05_analog_decoy/05_analog_decoy_090.jpg",
+      "image_num": 490,
+      "case_id": 490,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "05_analog_decoy/05_analog_decoy_091.jpg",
+      "image_num": 491,
+      "case_id": 491,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "05_analog_decoy/05_analog_decoy_092.jpg",
+      "image_num": 492,
+      "case_id": 492,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "05_analog_decoy/05_analog_decoy_093.jpg",
+      "image_num": 493,
+      "case_id": 493,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "05_analog_decoy/05_analog_decoy_094.jpg",
+      "image_num": 494,
+      "case_id": 494,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "05_analog_decoy/05_analog_decoy_095.jpg",
+      "image_num": 495,
+      "case_id": 495,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "05_analog_decoy/05_analog_decoy_096.jpg",
+      "image_num": 496,
+      "case_id": 496,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "05_analog_decoy/05_analog_decoy_097.jpg",
+      "image_num": 497,
+      "case_id": 497,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "05_analog_decoy/05_analog_decoy_098.jpg",
+      "image_num": 498,
+      "case_id": 498,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "05_analog_decoy/05_analog_decoy_099.jpg",
+      "image_num": 499,
+      "case_id": 499,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "05_analog_decoy/05_analog_decoy_100.jpg",
+      "image_num": 500,
+      "case_id": 500,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "06_digital_decoy/06_digital_decoy_001.jpg",
+      "image_num": 501,
+      "case_id": 501,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "06_digital_decoy/06_digital_decoy_002.jpg",
+      "image_num": 502,
+      "case_id": 502,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "06_digital_decoy/06_digital_decoy_003.jpg",
+      "image_num": 503,
+      "case_id": 503,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "06_digital_decoy/06_digital_decoy_004.jpg",
+      "image_num": 504,
+      "case_id": 504,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "06_digital_decoy/06_digital_decoy_005.jpg",
+      "image_num": 505,
+      "case_id": 505,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "06_digital_decoy/06_digital_decoy_006.jpg",
+      "image_num": 506,
+      "case_id": 506,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "06_digital_decoy/06_digital_decoy_007.jpg",
+      "image_num": 507,
+      "case_id": 507,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "06_digital_decoy/06_digital_decoy_008.jpg",
+      "image_num": 508,
+      "case_id": 508,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "06_digital_decoy/06_digital_decoy_009.jpg",
+      "image_num": 509,
+      "case_id": 509,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "06_digital_decoy/06_digital_decoy_010.jpg",
+      "image_num": 510,
+      "case_id": 510,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "06_digital_decoy/06_digital_decoy_011.jpg",
+      "image_num": 511,
+      "case_id": 511,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "06_digital_decoy/06_digital_decoy_012.jpg",
+      "image_num": 512,
+      "case_id": 512,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "06_digital_decoy/06_digital_decoy_013.jpg",
+      "image_num": 513,
+      "case_id": 513,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "06_digital_decoy/06_digital_decoy_014.jpg",
+      "image_num": 514,
+      "case_id": 514,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "06_digital_decoy/06_digital_decoy_015.jpg",
+      "image_num": 515,
+      "case_id": 515,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "06_digital_decoy/06_digital_decoy_016.jpg",
+      "image_num": 516,
+      "case_id": 516,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "06_digital_decoy/06_digital_decoy_017.jpg",
+      "image_num": 517,
+      "case_id": 517,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "06_digital_decoy/06_digital_decoy_018.jpg",
+      "image_num": 518,
+      "case_id": 518,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "06_digital_decoy/06_digital_decoy_019.jpg",
+      "image_num": 519,
+      "case_id": 519,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "06_digital_decoy/06_digital_decoy_020.jpg",
+      "image_num": 520,
+      "case_id": 520,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "06_digital_decoy/06_digital_decoy_021.jpg",
+      "image_num": 521,
+      "case_id": 521,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "06_digital_decoy/06_digital_decoy_022.jpg",
+      "image_num": 522,
+      "case_id": 522,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "06_digital_decoy/06_digital_decoy_023.jpg",
+      "image_num": 523,
+      "case_id": 523,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "06_digital_decoy/06_digital_decoy_024.jpg",
+      "image_num": 524,
+      "case_id": 524,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "06_digital_decoy/06_digital_decoy_025.jpg",
+      "image_num": 525,
+      "case_id": 525,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "06_digital_decoy/06_digital_decoy_026.jpg",
+      "image_num": 526,
+      "case_id": 526,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "06_digital_decoy/06_digital_decoy_027.jpg",
+      "image_num": 527,
+      "case_id": 527,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "06_digital_decoy/06_digital_decoy_028.jpg",
+      "image_num": 528,
+      "case_id": 528,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "06_digital_decoy/06_digital_decoy_029.jpg",
+      "image_num": 529,
+      "case_id": 529,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "06_digital_decoy/06_digital_decoy_030.jpg",
+      "image_num": 530,
+      "case_id": 530,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "06_digital_decoy/06_digital_decoy_031.jpg",
+      "image_num": 531,
+      "case_id": 531,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "06_digital_decoy/06_digital_decoy_032.jpg",
+      "image_num": 532,
+      "case_id": 532,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "06_digital_decoy/06_digital_decoy_033.jpg",
+      "image_num": 533,
+      "case_id": 533,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "06_digital_decoy/06_digital_decoy_034.jpg",
+      "image_num": 534,
+      "case_id": 534,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "06_digital_decoy/06_digital_decoy_035.jpg",
+      "image_num": 535,
+      "case_id": 535,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "06_digital_decoy/06_digital_decoy_036.jpg",
+      "image_num": 536,
+      "case_id": 536,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "06_digital_decoy/06_digital_decoy_037.jpg",
+      "image_num": 537,
+      "case_id": 537,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "06_digital_decoy/06_digital_decoy_038.jpg",
+      "image_num": 538,
+      "case_id": 538,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "06_digital_decoy/06_digital_decoy_039.jpg",
+      "image_num": 539,
+      "case_id": 539,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "06_digital_decoy/06_digital_decoy_040.jpg",
+      "image_num": 540,
+      "case_id": 540,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "06_digital_decoy/06_digital_decoy_041.jpg",
+      "image_num": 541,
+      "case_id": 541,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "06_digital_decoy/06_digital_decoy_042.png",
+      "image_num": 542,
+      "case_id": 542,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "06_digital_decoy/06_digital_decoy_043.jpg",
+      "image_num": 543,
+      "case_id": 543,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "06_digital_decoy/06_digital_decoy_044.jpg",
+      "image_num": 544,
+      "case_id": 544,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "06_digital_decoy/06_digital_decoy_045.jpg",
+      "image_num": 545,
+      "case_id": 545,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "06_digital_decoy/06_digital_decoy_046.jpg",
+      "image_num": 546,
+      "case_id": 546,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "06_digital_decoy/06_digital_decoy_047.jpg",
+      "image_num": 547,
+      "case_id": 547,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "06_digital_decoy/06_digital_decoy_048.jpg",
+      "image_num": 548,
+      "case_id": 548,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "06_digital_decoy/06_digital_decoy_049.jpg",
+      "image_num": 549,
+      "case_id": 549,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "06_digital_decoy/06_digital_decoy_050.jpg",
+      "image_num": 550,
+      "case_id": 550,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "06_digital_decoy/06_digital_decoy_051.jpg",
+      "image_num": 551,
+      "case_id": 551,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "06_digital_decoy/06_digital_decoy_052.jpg",
+      "image_num": 552,
+      "case_id": 552,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "06_digital_decoy/06_digital_decoy_053.jpg",
+      "image_num": 553,
+      "case_id": 553,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "06_digital_decoy/06_digital_decoy_054.jpg",
+      "image_num": 554,
+      "case_id": 554,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "06_digital_decoy/06_digital_decoy_055.jpg",
+      "image_num": 555,
+      "case_id": 555,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "06_digital_decoy/06_digital_decoy_056.jpg",
+      "image_num": 556,
+      "case_id": 556,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "06_digital_decoy/06_digital_decoy_057.jpg",
+      "image_num": 557,
+      "case_id": 557,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "06_digital_decoy/06_digital_decoy_058.jpg",
+      "image_num": 558,
+      "case_id": 558,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "06_digital_decoy/06_digital_decoy_059.jpg",
+      "image_num": 559,
+      "case_id": 559,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "06_digital_decoy/06_digital_decoy_060.jpg",
+      "image_num": 560,
+      "case_id": 560,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "06_digital_decoy/06_digital_decoy_061.jpg",
+      "image_num": 561,
+      "case_id": 561,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "06_digital_decoy/06_digital_decoy_062.jpg",
+      "image_num": 562,
+      "case_id": 562,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "06_digital_decoy/06_digital_decoy_063.jpg",
+      "image_num": 563,
+      "case_id": 563,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "06_digital_decoy/06_digital_decoy_064.jpg",
+      "image_num": 564,
+      "case_id": 564,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "06_digital_decoy/06_digital_decoy_065.jpg",
+      "image_num": 565,
+      "case_id": 565,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "06_digital_decoy/06_digital_decoy_066.jpg",
+      "image_num": 566,
+      "case_id": 566,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "06_digital_decoy/06_digital_decoy_067.jpg",
+      "image_num": 567,
+      "case_id": 567,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "06_digital_decoy/06_digital_decoy_068.jpg",
+      "image_num": 568,
+      "case_id": 568,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "06_digital_decoy/06_digital_decoy_069.jpg",
+      "image_num": 569,
+      "case_id": 569,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "06_digital_decoy/06_digital_decoy_070.jpg",
+      "image_num": 570,
+      "case_id": 570,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "06_digital_decoy/06_digital_decoy_071.jpg",
+      "image_num": 571,
+      "case_id": 571,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "06_digital_decoy/06_digital_decoy_072.jpg",
+      "image_num": 572,
+      "case_id": 572,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "06_digital_decoy/06_digital_decoy_073.jpg",
+      "image_num": 573,
+      "case_id": 573,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "06_digital_decoy/06_digital_decoy_074.jpg",
+      "image_num": 574,
+      "case_id": 574,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "06_digital_decoy/06_digital_decoy_075.jpg",
+      "image_num": 575,
+      "case_id": 575,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "06_digital_decoy/06_digital_decoy_076.jpg",
+      "image_num": 576,
+      "case_id": 576,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "06_digital_decoy/06_digital_decoy_077.jpg",
+      "image_num": 577,
+      "case_id": 577,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "06_digital_decoy/06_digital_decoy_078.jpg",
+      "image_num": 578,
+      "case_id": 578,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "06_digital_decoy/06_digital_decoy_079.jpg",
+      "image_num": 579,
+      "case_id": 579,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "06_digital_decoy/06_digital_decoy_080.jpg",
+      "image_num": 580,
+      "case_id": 580,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "06_digital_decoy/06_digital_decoy_081.jpg",
+      "image_num": 581,
+      "case_id": 581,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "06_digital_decoy/06_digital_decoy_082.jpg",
+      "image_num": 582,
+      "case_id": 582,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "06_digital_decoy/06_digital_decoy_083.jpg",
+      "image_num": 583,
+      "case_id": 583,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "06_digital_decoy/06_digital_decoy_084.jpg",
+      "image_num": 584,
+      "case_id": 584,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "06_digital_decoy/06_digital_decoy_085.jpg",
+      "image_num": 585,
+      "case_id": 585,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "06_digital_decoy/06_digital_decoy_086.jpg",
+      "image_num": 586,
+      "case_id": 586,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "06_digital_decoy/06_digital_decoy_087.jpg",
+      "image_num": 587,
+      "case_id": 587,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "06_digital_decoy/06_digital_decoy_088.jpg",
+      "image_num": 588,
+      "case_id": 588,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "06_digital_decoy/06_digital_decoy_089.jpg",
+      "image_num": 589,
+      "case_id": 589,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "06_digital_decoy/06_digital_decoy_090.jpg",
+      "image_num": 590,
+      "case_id": 590,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "06_digital_decoy/06_digital_decoy_091.jpg",
+      "image_num": 591,
+      "case_id": 591,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "06_digital_decoy/06_digital_decoy_092.jpg",
+      "image_num": 592,
+      "case_id": 592,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "06_digital_decoy/06_digital_decoy_093.jpg",
+      "image_num": 593,
+      "case_id": 593,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "06_digital_decoy/06_digital_decoy_094.jpg",
+      "image_num": 594,
+      "case_id": 594,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "06_digital_decoy/06_digital_decoy_095.jpg",
+      "image_num": 595,
+      "case_id": 595,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "06_digital_decoy/06_digital_decoy_096.jpg",
+      "image_num": 596,
+      "case_id": 596,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "06_digital_decoy/06_digital_decoy_097.jpg",
+      "image_num": 597,
+      "case_id": 597,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "06_digital_decoy/06_digital_decoy_098.jpg",
+      "image_num": 598,
+      "case_id": 598,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "06_digital_decoy/06_digital_decoy_099.jpg",
+      "image_num": 599,
+      "case_id": 599,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "06_digital_decoy/06_digital_decoy_100.jpg",
+      "image_num": 600,
+      "case_id": 600,
+      "absent_object": "determinable clock time"
+    },
+    {
+      "image_file": "07_scene_schema/07_scene_schema_001.png",
+      "image_num": 601,
+      "case_id": 601,
+      "absent_object": "umbrella"
+    },
+    {
+      "image_file": "07_scene_schema/07_scene_schema_002.png",
+      "image_num": 602,
+      "case_id": 602,
+      "absent_object": "umbrella"
+    },
+    {
+      "image_file": "07_scene_schema/07_scene_schema_003.png",
+      "image_num": 603,
+      "case_id": 603,
+      "absent_object": "umbrella"
+    },
+    {
+      "image_file": "07_scene_schema/07_scene_schema_004.png",
+      "image_num": 604,
+      "case_id": 604,
+      "absent_object": "umbrella"
+    },
+    {
+      "image_file": "07_scene_schema/07_scene_schema_005.png",
+      "image_num": 605,
+      "case_id": 605,
+      "absent_object": "umbrella"
+    },
+    {
+      "image_file": "07_scene_schema/07_scene_schema_006.png",
+      "image_num": 606,
+      "case_id": 606,
+      "absent_object": "umbrella"
+    },
+    {
+      "image_file": "07_scene_schema/07_scene_schema_007.png",
+      "image_num": 607,
+      "case_id": 607,
+      "absent_object": "umbrella"
+    },
+    {
+      "image_file": "07_scene_schema/07_scene_schema_008.png",
+      "image_num": 608,
+      "case_id": 608,
+      "absent_object": "umbrella"
+    },
+    {
+      "image_file": "07_scene_schema/07_scene_schema_009.png",
+      "image_num": 609,
+      "case_id": 609,
+      "absent_object": "umbrella"
+    },
+    {
+      "image_file": "07_scene_schema/07_scene_schema_010.png",
+      "image_num": 610,
+      "case_id": 610,
+      "absent_object": "umbrella"
+    },
+    {
+      "image_file": "07_scene_schema/07_scene_schema_011.png",
+      "image_num": 611,
+      "case_id": 611,
+      "absent_object": "chalk"
+    },
+    {
+      "image_file": "07_scene_schema/07_scene_schema_012.png",
+      "image_num": 612,
+      "case_id": 612,
+      "absent_object": "chalk"
+    },
+    {
+      "image_file": "07_scene_schema/07_scene_schema_013.png",
+      "image_num": 613,
+      "case_id": 613,
+      "absent_object": "chalk"
+    },
+    {
+      "image_file": "07_scene_schema/07_scene_schema_014.png",
+      "image_num": 614,
+      "case_id": 614,
+      "absent_object": "chalk"
+    },
+    {
+      "image_file": "07_scene_schema/07_scene_schema_015.png",
+      "image_num": 615,
+      "case_id": 615,
+      "absent_object": "chalk"
+    },
+    {
+      "image_file": "07_scene_schema/07_scene_schema_016.png",
+      "image_num": 616,
+      "case_id": 616,
+      "absent_object": "chalk"
+    },
+    {
+      "image_file": "07_scene_schema/07_scene_schema_017.png",
+      "image_num": 617,
+      "case_id": 617,
+      "absent_object": "chalk"
+    },
+    {
+      "image_file": "07_scene_schema/07_scene_schema_018.png",
+      "image_num": 618,
+      "case_id": 618,
+      "absent_object": "chalk"
+    },
+    {
+      "image_file": "07_scene_schema/07_scene_schema_019.png",
+      "image_num": 619,
+      "case_id": 619,
+      "absent_object": "chalk"
+    },
+    {
+      "image_file": "07_scene_schema/07_scene_schema_020.png",
+      "image_num": 620,
+      "case_id": 620,
+      "absent_object": "chalk"
+    },
+    {
+      "image_file": "07_scene_schema/07_scene_schema_021.png",
+      "image_num": 621,
+      "case_id": 621,
+      "absent_object": "fuel nozzle"
+    },
+    {
+      "image_file": "07_scene_schema/07_scene_schema_022.png",
+      "image_num": 622,
+      "case_id": 622,
+      "absent_object": "fuel nozzle"
+    },
+    {
+      "image_file": "07_scene_schema/07_scene_schema_023.png",
+      "image_num": 623,
+      "case_id": 623,
+      "absent_object": "fuel nozzle"
+    },
+    {
+      "image_file": "07_scene_schema/07_scene_schema_024.png",
+      "image_num": 624,
+      "case_id": 624,
+      "absent_object": "fuel nozzle"
+    },
+    {
+      "image_file": "07_scene_schema/07_scene_schema_025.png",
+      "image_num": 625,
+      "case_id": 625,
+      "absent_object": "fuel nozzle"
+    },
+    {
+      "image_file": "07_scene_schema/07_scene_schema_026.png",
+      "image_num": 626,
+      "case_id": 626,
+      "absent_object": "fuel nozzle"
+    },
+    {
+      "image_file": "07_scene_schema/07_scene_schema_027.png",
+      "image_num": 627,
+      "case_id": 627,
+      "absent_object": "fuel nozzle"
+    },
+    {
+      "image_file": "07_scene_schema/07_scene_schema_028.png",
+      "image_num": 628,
+      "case_id": 628,
+      "absent_object": "fuel nozzle"
+    },
+    {
+      "image_file": "07_scene_schema/07_scene_schema_029.png",
+      "image_num": 629,
+      "case_id": 629,
+      "absent_object": "fuel nozzle"
+    },
+    {
+      "image_file": "07_scene_schema/07_scene_schema_030.png",
+      "image_num": 630,
+      "case_id": 630,
+      "absent_object": "fuel nozzle"
+    },
+    {
+      "image_file": "07_scene_schema/07_scene_schema_031.png",
+      "image_num": 631,
+      "case_id": 631,
+      "absent_object": "wheelchair"
+    },
+    {
+      "image_file": "07_scene_schema/07_scene_schema_032.png",
+      "image_num": 632,
+      "case_id": 632,
+      "absent_object": "wheelchair"
+    },
+    {
+      "image_file": "07_scene_schema/07_scene_schema_033.png",
+      "image_num": 633,
+      "case_id": 633,
+      "absent_object": "wheelchair"
+    },
+    {
+      "image_file": "07_scene_schema/07_scene_schema_034.png",
+      "image_num": 634,
+      "case_id": 634,
+      "absent_object": "wheelchair"
+    },
+    {
+      "image_file": "07_scene_schema/07_scene_schema_035.png",
+      "image_num": 635,
+      "case_id": 635,
+      "absent_object": "wheelchair"
+    },
+    {
+      "image_file": "07_scene_schema/07_scene_schema_036.png",
+      "image_num": 636,
+      "case_id": 636,
+      "absent_object": "wheelchair"
+    },
+    {
+      "image_file": "07_scene_schema/07_scene_schema_037.png",
+      "image_num": 637,
+      "case_id": 637,
+      "absent_object": "wheelchair"
+    },
+    {
+      "image_file": "07_scene_schema/07_scene_schema_038.png",
+      "image_num": 638,
+      "case_id": 638,
+      "absent_object": "wheelchair"
+    },
+    {
+      "image_file": "07_scene_schema/07_scene_schema_039.png",
+      "image_num": 639,
+      "case_id": 639,
+      "absent_object": "wheelchair"
+    },
+    {
+      "image_file": "07_scene_schema/07_scene_schema_040.png",
+      "image_num": 640,
+      "case_id": 640,
+      "absent_object": "wheelchair"
+    },
+    {
+      "image_file": "07_scene_schema/07_scene_schema_041.png",
+      "image_num": 641,
+      "case_id": 641,
+      "absent_object": "keyboard"
+    },
+    {
+      "image_file": "07_scene_schema/07_scene_schema_042.png",
+      "image_num": 642,
+      "case_id": 642,
+      "absent_object": "keyboard"
+    },
+    {
+      "image_file": "07_scene_schema/07_scene_schema_043.png",
+      "image_num": 643,
+      "case_id": 643,
+      "absent_object": "keyboard"
+    },
+    {
+      "image_file": "07_scene_schema/07_scene_schema_044.png",
+      "image_num": 644,
+      "case_id": 644,
+      "absent_object": "keyboard"
+    },
+    {
+      "image_file": "07_scene_schema/07_scene_schema_045.png",
+      "image_num": 645,
+      "case_id": 645,
+      "absent_object": "keyboard"
+    },
+    {
+      "image_file": "07_scene_schema/07_scene_schema_046.png",
+      "image_num": 646,
+      "case_id": 646,
+      "absent_object": "keyboard"
+    },
+    {
+      "image_file": "07_scene_schema/07_scene_schema_047.png",
+      "image_num": 647,
+      "case_id": 647,
+      "absent_object": "keyboard"
+    },
+    {
+      "image_file": "07_scene_schema/07_scene_schema_048.png",
+      "image_num": 648,
+      "case_id": 648,
+      "absent_object": "keyboard"
+    },
+    {
+      "image_file": "07_scene_schema/07_scene_schema_049.png",
+      "image_num": 649,
+      "case_id": 649,
+      "absent_object": "keyboard"
+    },
+    {
+      "image_file": "07_scene_schema/07_scene_schema_050.png",
+      "image_num": 650,
+      "case_id": 650,
+      "absent_object": "keyboard"
+    },
+    {
+      "image_file": "07_scene_schema/07_scene_schema_051.png",
+      "image_num": 651,
+      "case_id": 651,
+      "absent_object": "frisbee"
+    },
+    {
+      "image_file": "07_scene_schema/07_scene_schema_052.png",
+      "image_num": 652,
+      "case_id": 652,
+      "absent_object": "frisbee"
+    },
+    {
+      "image_file": "07_scene_schema/07_scene_schema_053.png",
+      "image_num": 653,
+      "case_id": 653,
+      "absent_object": "frisbee"
+    },
+    {
+      "image_file": "07_scene_schema/07_scene_schema_054.png",
+      "image_num": 654,
+      "case_id": 654,
+      "absent_object": "frisbee"
+    },
+    {
+      "image_file": "07_scene_schema/07_scene_schema_055.png",
+      "image_num": 655,
+      "case_id": 655,
+      "absent_object": "frisbee"
+    },
+    {
+      "image_file": "07_scene_schema/07_scene_schema_056.png",
+      "image_num": 656,
+      "case_id": 656,
+      "absent_object": "frisbee"
+    },
+    {
+      "image_file": "07_scene_schema/07_scene_schema_057.png",
+      "image_num": 657,
+      "case_id": 657,
+      "absent_object": "frisbee"
+    },
+    {
+      "image_file": "07_scene_schema/07_scene_schema_058.png",
+      "image_num": 658,
+      "case_id": 658,
+      "absent_object": "frisbee"
+    },
+    {
+      "image_file": "07_scene_schema/07_scene_schema_059.png",
+      "image_num": 659,
+      "case_id": 659,
+      "absent_object": "frisbee"
+    },
+    {
+      "image_file": "07_scene_schema/07_scene_schema_060.png",
+      "image_num": 660,
+      "case_id": 660,
+      "absent_object": "frisbee"
+    },
+    {
+      "image_file": "07_scene_schema/07_scene_schema_061.jpg",
+      "image_num": 661,
+      "case_id": 661,
+      "absent_object": "cup"
+    },
+    {
+      "image_file": "07_scene_schema/07_scene_schema_062.jpg",
+      "image_num": 662,
+      "case_id": 662,
+      "absent_object": "cup"
+    },
+    {
+      "image_file": "07_scene_schema/07_scene_schema_063.jpg",
+      "image_num": 663,
+      "case_id": 663,
+      "absent_object": "cup"
+    },
+    {
+      "image_file": "07_scene_schema/07_scene_schema_064.jpg",
+      "image_num": 664,
+      "case_id": 664,
+      "absent_object": "cup"
+    },
+    {
+      "image_file": "07_scene_schema/07_scene_schema_065.jpg",
+      "image_num": 665,
+      "case_id": 665,
+      "absent_object": "cup"
+    },
+    {
+      "image_file": "07_scene_schema/07_scene_schema_066.jpg",
+      "image_num": 666,
+      "case_id": 666,
+      "absent_object": "cup"
+    },
+    {
+      "image_file": "07_scene_schema/07_scene_schema_067.jpg",
+      "image_num": 667,
+      "case_id": 667,
+      "absent_object": "cup"
+    },
+    {
+      "image_file": "07_scene_schema/07_scene_schema_068.jpg",
+      "image_num": 668,
+      "case_id": 668,
+      "absent_object": "cup"
+    },
+    {
+      "image_file": "07_scene_schema/07_scene_schema_069.png",
+      "image_num": 669,
+      "case_id": 669,
+      "absent_object": "cup"
+    },
+    {
+      "image_file": "07_scene_schema/07_scene_schema_070.png",
+      "image_num": 670,
+      "case_id": 670,
+      "absent_object": "cup"
+    },
+    {
+      "image_file": "07_scene_schema/07_scene_schema_071.jpg",
+      "image_num": 671,
+      "case_id": 671,
+      "absent_object": "candle"
+    },
+    {
+      "image_file": "07_scene_schema/07_scene_schema_072.jpg",
+      "image_num": 672,
+      "case_id": 672,
+      "absent_object": "candle"
+    },
+    {
+      "image_file": "07_scene_schema/07_scene_schema_073.jpg",
+      "image_num": 673,
+      "case_id": 673,
+      "absent_object": "candle"
+    },
+    {
+      "image_file": "07_scene_schema/07_scene_schema_074.jpg",
+      "image_num": 674,
+      "case_id": 674,
+      "absent_object": "candle"
+    },
+    {
+      "image_file": "07_scene_schema/07_scene_schema_075.jpg",
+      "image_num": 675,
+      "case_id": 675,
+      "absent_object": "candle"
+    },
+    {
+      "image_file": "07_scene_schema/07_scene_schema_076.jpg",
+      "image_num": 676,
+      "case_id": 676,
+      "absent_object": "candle"
+    },
+    {
+      "image_file": "07_scene_schema/07_scene_schema_077.jpg",
+      "image_num": 677,
+      "case_id": 677,
+      "absent_object": "candle"
+    },
+    {
+      "image_file": "07_scene_schema/07_scene_schema_078.jpg",
+      "image_num": 678,
+      "case_id": 678,
+      "absent_object": "candle"
+    },
+    {
+      "image_file": "07_scene_schema/07_scene_schema_079.png",
+      "image_num": 679,
+      "case_id": 679,
+      "absent_object": "candle"
+    },
+    {
+      "image_file": "07_scene_schema/07_scene_schema_080.png",
+      "image_num": 680,
+      "case_id": 680,
+      "absent_object": "candle"
+    },
+    {
+      "image_file": "07_scene_schema/07_scene_schema_081.png",
+      "image_num": 681,
+      "case_id": 681,
+      "absent_object": "ball"
+    },
+    {
+      "image_file": "07_scene_schema/07_scene_schema_082.png",
+      "image_num": 682,
+      "case_id": 682,
+      "absent_object": "ball"
+    },
+    {
+      "image_file": "07_scene_schema/07_scene_schema_083.png",
+      "image_num": 683,
+      "case_id": 683,
+      "absent_object": "ball"
+    },
+    {
+      "image_file": "07_scene_schema/07_scene_schema_084.png",
+      "image_num": 684,
+      "case_id": 684,
+      "absent_object": "ball"
+    },
+    {
+      "image_file": "07_scene_schema/07_scene_schema_085.png",
+      "image_num": 685,
+      "case_id": 685,
+      "absent_object": "ball"
+    },
+    {
+      "image_file": "07_scene_schema/07_scene_schema_086.png",
+      "image_num": 686,
+      "case_id": 686,
+      "absent_object": "ball"
+    },
+    {
+      "image_file": "07_scene_schema/07_scene_schema_087.png",
+      "image_num": 687,
+      "case_id": 687,
+      "absent_object": "ball"
+    },
+    {
+      "image_file": "07_scene_schema/07_scene_schema_088.png",
+      "image_num": 688,
+      "case_id": 688,
+      "absent_object": "ball"
+    },
+    {
+      "image_file": "07_scene_schema/07_scene_schema_089.png",
+      "image_num": 689,
+      "case_id": 689,
+      "absent_object": "ball"
+    },
+    {
+      "image_file": "07_scene_schema/07_scene_schema_090.png",
+      "image_num": 690,
+      "case_id": 690,
+      "absent_object": "ball"
+    },
+    {
+      "image_file": "07_scene_schema/07_scene_schema_091.jpg",
+      "image_num": 691,
+      "case_id": 691,
+      "absent_object": "ice cream"
+    },
+    {
+      "image_file": "07_scene_schema/07_scene_schema_092.jpg",
+      "image_num": 692,
+      "case_id": 692,
+      "absent_object": "ice cream"
+    },
+    {
+      "image_file": "07_scene_schema/07_scene_schema_093.jpg",
+      "image_num": 693,
+      "case_id": 693,
+      "absent_object": "ice cream"
+    },
+    {
+      "image_file": "07_scene_schema/07_scene_schema_094.jpg",
+      "image_num": 694,
+      "case_id": 694,
+      "absent_object": "ice cream"
+    },
+    {
+      "image_file": "07_scene_schema/07_scene_schema_095.jpg",
+      "image_num": 695,
+      "case_id": 695,
+      "absent_object": "ice cream"
+    },
+    {
+      "image_file": "07_scene_schema/07_scene_schema_096.jpg",
+      "image_num": 696,
+      "case_id": 696,
+      "absent_object": "ice cream"
+    },
+    {
+      "image_file": "07_scene_schema/07_scene_schema_097.jpg",
+      "image_num": 697,
+      "case_id": 697,
+      "absent_object": "ice cream"
+    },
+    {
+      "image_file": "07_scene_schema/07_scene_schema_098.jpg",
+      "image_num": 698,
+      "case_id": 698,
+      "absent_object": "ice cream"
+    },
+    {
+      "image_file": "07_scene_schema/07_scene_schema_099.png",
+      "image_num": 699,
+      "case_id": 699,
+      "absent_object": "ice cream"
+    },
+    {
+      "image_file": "07_scene_schema/07_scene_schema_100.png",
+      "image_num": 700,
+      "case_id": 700,
+      "absent_object": "ice cream"
+    },
+    {
+      "image_file": "08_human_intent/08_human_intent_001.png",
+      "image_num": 701,
+      "case_id": 701,
+      "absent_object": "knife"
+    },
+    {
+      "image_file": "08_human_intent/08_human_intent_002.png",
+      "image_num": 702,
+      "case_id": 702,
+      "absent_object": "knife"
+    },
+    {
+      "image_file": "08_human_intent/08_human_intent_003.png",
+      "image_num": 703,
+      "case_id": 703,
+      "absent_object": "knife"
+    },
+    {
+      "image_file": "08_human_intent/08_human_intent_004.png",
+      "image_num": 704,
+      "case_id": 704,
+      "absent_object": "knife"
+    },
+    {
+      "image_file": "08_human_intent/08_human_intent_005.png",
+      "image_num": 705,
+      "case_id": 705,
+      "absent_object": "knife"
+    },
+    {
+      "image_file": "08_human_intent/08_human_intent_006.png",
+      "image_num": 706,
+      "case_id": 706,
+      "absent_object": "knife"
+    },
+    {
+      "image_file": "08_human_intent/08_human_intent_007.png",
+      "image_num": 707,
+      "case_id": 707,
+      "absent_object": "knife"
+    },
+    {
+      "image_file": "08_human_intent/08_human_intent_008.png",
+      "image_num": 708,
+      "case_id": 708,
+      "absent_object": "knife"
+    },
+    {
+      "image_file": "08_human_intent/08_human_intent_009.png",
+      "image_num": 709,
+      "case_id": 709,
+      "absent_object": "knife"
+    },
+    {
+      "image_file": "08_human_intent/08_human_intent_010.png",
+      "image_num": 710,
+      "case_id": 710,
+      "absent_object": "knife"
+    },
+    {
+      "image_file": "08_human_intent/08_human_intent_011.png",
+      "image_num": 711,
+      "case_id": 711,
+      "absent_object": "stethoscope"
+    },
+    {
+      "image_file": "08_human_intent/08_human_intent_012.png",
+      "image_num": 712,
+      "case_id": 712,
+      "absent_object": "stethoscope"
+    },
+    {
+      "image_file": "08_human_intent/08_human_intent_013.png",
+      "image_num": 713,
+      "case_id": 713,
+      "absent_object": "stethoscope"
+    },
+    {
+      "image_file": "08_human_intent/08_human_intent_014.png",
+      "image_num": 714,
+      "case_id": 714,
+      "absent_object": "stethoscope"
+    },
+    {
+      "image_file": "08_human_intent/08_human_intent_015.png",
+      "image_num": 715,
+      "case_id": 715,
+      "absent_object": "stethoscope"
+    },
+    {
+      "image_file": "08_human_intent/08_human_intent_016.png",
+      "image_num": 716,
+      "case_id": 716,
+      "absent_object": "stethoscope"
+    },
+    {
+      "image_file": "08_human_intent/08_human_intent_017.png",
+      "image_num": 717,
+      "case_id": 717,
+      "absent_object": "stethoscope"
+    },
+    {
+      "image_file": "08_human_intent/08_human_intent_018.png",
+      "image_num": 718,
+      "case_id": 718,
+      "absent_object": "stethoscope"
+    },
+    {
+      "image_file": "08_human_intent/08_human_intent_019.png",
+      "image_num": 719,
+      "case_id": 719,
+      "absent_object": "stethoscope"
+    },
+    {
+      "image_file": "08_human_intent/08_human_intent_020.png",
+      "image_num": 720,
+      "case_id": 720,
+      "absent_object": "stethoscope"
+    },
+    {
+      "image_file": "08_human_intent/08_human_intent_021.png",
+      "image_num": 721,
+      "case_id": 721,
+      "absent_object": "fire extinguisher"
+    },
+    {
+      "image_file": "08_human_intent/08_human_intent_022.png",
+      "image_num": 722,
+      "case_id": 722,
+      "absent_object": "fire extinguisher"
+    },
+    {
+      "image_file": "08_human_intent/08_human_intent_023.png",
+      "image_num": 723,
+      "case_id": 723,
+      "absent_object": "fire extinguisher"
+    },
+    {
+      "image_file": "08_human_intent/08_human_intent_024.png",
+      "image_num": 724,
+      "case_id": 724,
+      "absent_object": "fire extinguisher"
+    },
+    {
+      "image_file": "08_human_intent/08_human_intent_025.png",
+      "image_num": 725,
+      "case_id": 725,
+      "absent_object": "fire extinguisher"
+    },
+    {
+      "image_file": "08_human_intent/08_human_intent_026.png",
+      "image_num": 726,
+      "case_id": 726,
+      "absent_object": "fire extinguisher"
+    },
+    {
+      "image_file": "08_human_intent/08_human_intent_027.png",
+      "image_num": 727,
+      "case_id": 727,
+      "absent_object": "fire extinguisher"
+    },
+    {
+      "image_file": "08_human_intent/08_human_intent_028.png",
+      "image_num": 728,
+      "case_id": 728,
+      "absent_object": "fire extinguisher"
+    },
+    {
+      "image_file": "08_human_intent/08_human_intent_029.png",
+      "image_num": 729,
+      "case_id": 729,
+      "absent_object": "fire extinguisher"
+    },
+    {
+      "image_file": "08_human_intent/08_human_intent_030.png",
+      "image_num": 730,
+      "case_id": 730,
+      "absent_object": "fire extinguisher"
+    },
+    {
+      "image_file": "08_human_intent/08_human_intent_031.png",
+      "image_num": 731,
+      "case_id": 731,
+      "absent_object": "gun"
+    },
+    {
+      "image_file": "08_human_intent/08_human_intent_032.png",
+      "image_num": 732,
+      "case_id": 732,
+      "absent_object": "gun"
+    },
+    {
+      "image_file": "08_human_intent/08_human_intent_033.png",
+      "image_num": 733,
+      "case_id": 733,
+      "absent_object": "gun"
+    },
+    {
+      "image_file": "08_human_intent/08_human_intent_034.png",
+      "image_num": 734,
+      "case_id": 734,
+      "absent_object": "gun"
+    },
+    {
+      "image_file": "08_human_intent/08_human_intent_035.png",
+      "image_num": 735,
+      "case_id": 735,
+      "absent_object": "gun"
+    },
+    {
+      "image_file": "08_human_intent/08_human_intent_036.png",
+      "image_num": 736,
+      "case_id": 736,
+      "absent_object": "gun"
+    },
+    {
+      "image_file": "08_human_intent/08_human_intent_037.png",
+      "image_num": 737,
+      "case_id": 737,
+      "absent_object": "gun"
+    },
+    {
+      "image_file": "08_human_intent/08_human_intent_038.png",
+      "image_num": 738,
+      "case_id": 738,
+      "absent_object": "gun"
+    },
+    {
+      "image_file": "08_human_intent/08_human_intent_039.png",
+      "image_num": 739,
+      "case_id": 739,
+      "absent_object": "gun"
+    },
+    {
+      "image_file": "08_human_intent/08_human_intent_040.png",
+      "image_num": 740,
+      "case_id": 740,
+      "absent_object": "gun"
+    },
+    {
+      "image_file": "08_human_intent/08_human_intent_041.png",
+      "image_num": 741,
+      "case_id": 741,
+      "absent_object": "radio"
+    },
+    {
+      "image_file": "08_human_intent/08_human_intent_042.png",
+      "image_num": 742,
+      "case_id": 742,
+      "absent_object": "radio"
+    },
+    {
+      "image_file": "08_human_intent/08_human_intent_043.png",
+      "image_num": 743,
+      "case_id": 743,
+      "absent_object": "radio"
+    },
+    {
+      "image_file": "08_human_intent/08_human_intent_044.png",
+      "image_num": 744,
+      "case_id": 744,
+      "absent_object": "radio"
+    },
+    {
+      "image_file": "08_human_intent/08_human_intent_045.png",
+      "image_num": 745,
+      "case_id": 745,
+      "absent_object": "radio"
+    },
+    {
+      "image_file": "08_human_intent/08_human_intent_046.png",
+      "image_num": 746,
+      "case_id": 746,
+      "absent_object": "radio"
+    },
+    {
+      "image_file": "08_human_intent/08_human_intent_047.png",
+      "image_num": 747,
+      "case_id": 747,
+      "absent_object": "radio"
+    },
+    {
+      "image_file": "08_human_intent/08_human_intent_048.png",
+      "image_num": 748,
+      "case_id": 748,
+      "absent_object": "radio"
+    },
+    {
+      "image_file": "08_human_intent/08_human_intent_049.png",
+      "image_num": 749,
+      "case_id": 749,
+      "absent_object": "radio"
+    },
+    {
+      "image_file": "08_human_intent/08_human_intent_050.png",
+      "image_num": 750,
+      "case_id": 750,
+      "absent_object": "radio"
+    },
+    {
+      "image_file": "08_human_intent/08_human_intent_051.jpg",
+      "image_num": 751,
+      "case_id": 751,
+      "absent_object": "earbuds"
+    },
+    {
+      "image_file": "08_human_intent/08_human_intent_052.jpg",
+      "image_num": 752,
+      "case_id": 752,
+      "absent_object": "earbuds"
+    },
+    {
+      "image_file": "08_human_intent/08_human_intent_053.jpg",
+      "image_num": 753,
+      "case_id": 753,
+      "absent_object": "earbuds"
+    },
+    {
+      "image_file": "08_human_intent/08_human_intent_054.jpg",
+      "image_num": 754,
+      "case_id": 754,
+      "absent_object": "earbuds"
+    },
+    {
+      "image_file": "08_human_intent/08_human_intent_055.jpg",
+      "image_num": 755,
+      "case_id": 755,
+      "absent_object": "earbuds"
+    },
+    {
+      "image_file": "08_human_intent/08_human_intent_056.jpg",
+      "image_num": 756,
+      "case_id": 756,
+      "absent_object": "earbuds"
+    },
+    {
+      "image_file": "08_human_intent/08_human_intent_057.jpg",
+      "image_num": 757,
+      "case_id": 757,
+      "absent_object": "earbuds"
+    },
+    {
+      "image_file": "08_human_intent/08_human_intent_058.jpg",
+      "image_num": 758,
+      "case_id": 758,
+      "absent_object": "earbuds"
+    },
+    {
+      "image_file": "08_human_intent/08_human_intent_059.png",
+      "image_num": 759,
+      "case_id": 759,
+      "absent_object": "earbuds"
+    },
+    {
+      "image_file": "08_human_intent/08_human_intent_060.png",
+      "image_num": 760,
+      "case_id": 760,
+      "absent_object": "earbuds"
+    },
+    {
+      "image_file": "08_human_intent/08_human_intent_061.jpg",
+      "image_num": 761,
+      "case_id": 761,
+      "absent_object": "microphone"
+    },
+    {
+      "image_file": "08_human_intent/08_human_intent_062.jpg",
+      "image_num": 762,
+      "case_id": 762,
+      "absent_object": "microphone"
+    },
+    {
+      "image_file": "08_human_intent/08_human_intent_063.jpg",
+      "image_num": 763,
+      "case_id": 763,
+      "absent_object": "microphone"
+    },
+    {
+      "image_file": "08_human_intent/08_human_intent_064.jpg",
+      "image_num": 764,
+      "case_id": 764,
+      "absent_object": "microphone"
+    },
+    {
+      "image_file": "08_human_intent/08_human_intent_065.jpg",
+      "image_num": 765,
+      "case_id": 765,
+      "absent_object": "microphone"
+    },
+    {
+      "image_file": "08_human_intent/08_human_intent_066.jpg",
+      "image_num": 766,
+      "case_id": 766,
+      "absent_object": "microphone"
+    },
+    {
+      "image_file": "08_human_intent/08_human_intent_067.jpg",
+      "image_num": 767,
+      "case_id": 767,
+      "absent_object": "microphone"
+    },
+    {
+      "image_file": "08_human_intent/08_human_intent_068.jpg",
+      "image_num": 768,
+      "case_id": 768,
+      "absent_object": "microphone"
+    },
+    {
+      "image_file": "08_human_intent/08_human_intent_069.jpg",
+      "image_num": 769,
+      "case_id": 769,
+      "absent_object": "microphone"
+    },
+    {
+      "image_file": "08_human_intent/08_human_intent_070.jpg",
+      "image_num": 770,
+      "case_id": 770,
+      "absent_object": "microphone"
+    },
+    {
+      "image_file": "08_human_intent/08_human_intent_071.jpg",
+      "image_num": 771,
+      "case_id": 771,
+      "absent_object": "remote control"
+    },
+    {
+      "image_file": "08_human_intent/08_human_intent_072.jpg",
+      "image_num": 772,
+      "case_id": 772,
+      "absent_object": "remote control"
+    },
+    {
+      "image_file": "08_human_intent/08_human_intent_073.jpg",
+      "image_num": 773,
+      "case_id": 773,
+      "absent_object": "remote control"
+    },
+    {
+      "image_file": "08_human_intent/08_human_intent_074.jpg",
+      "image_num": 774,
+      "case_id": 774,
+      "absent_object": "remote control"
+    },
+    {
+      "image_file": "08_human_intent/08_human_intent_075.jpg",
+      "image_num": 775,
+      "case_id": 775,
+      "absent_object": "remote control"
+    },
+    {
+      "image_file": "08_human_intent/08_human_intent_076.jpg",
+      "image_num": 776,
+      "case_id": 776,
+      "absent_object": "remote control"
+    },
+    {
+      "image_file": "08_human_intent/08_human_intent_077.jpg",
+      "image_num": 777,
+      "case_id": 777,
+      "absent_object": "remote control"
+    },
+    {
+      "image_file": "08_human_intent/08_human_intent_078.jpg",
+      "image_num": 778,
+      "case_id": 778,
+      "absent_object": "remote control"
+    },
+    {
+      "image_file": "08_human_intent/08_human_intent_079.png",
+      "image_num": 779,
+      "case_id": 779,
+      "absent_object": "remote control"
+    },
+    {
+      "image_file": "08_human_intent/08_human_intent_080.png",
+      "image_num": 780,
+      "case_id": 780,
+      "absent_object": "remote control"
+    },
+    {
+      "image_file": "08_human_intent/08_human_intent_081.jpg",
+      "image_num": 781,
+      "case_id": 781,
+      "absent_object": "chalk"
+    },
+    {
+      "image_file": "08_human_intent/08_human_intent_082.jpg",
+      "image_num": 782,
+      "case_id": 782,
+      "absent_object": "chalk"
+    },
+    {
+      "image_file": "08_human_intent/08_human_intent_083.jpg",
+      "image_num": 783,
+      "case_id": 783,
+      "absent_object": "chalk"
+    },
+    {
+      "image_file": "08_human_intent/08_human_intent_084.jpg",
+      "image_num": 784,
+      "case_id": 784,
+      "absent_object": "chalk"
+    },
+    {
+      "image_file": "08_human_intent/08_human_intent_085.jpg",
+      "image_num": 785,
+      "case_id": 785,
+      "absent_object": "chalk"
+    },
+    {
+      "image_file": "08_human_intent/08_human_intent_086.jpg",
+      "image_num": 786,
+      "case_id": 786,
+      "absent_object": "chalk"
+    },
+    {
+      "image_file": "08_human_intent/08_human_intent_087.jpg",
+      "image_num": 787,
+      "case_id": 787,
+      "absent_object": "chalk"
+    },
+    {
+      "image_file": "08_human_intent/08_human_intent_088.jpg",
+      "image_num": 788,
+      "case_id": 788,
+      "absent_object": "chalk"
+    },
+    {
+      "image_file": "08_human_intent/08_human_intent_089.png",
+      "image_num": 789,
+      "case_id": 789,
+      "absent_object": "chalk"
+    },
+    {
+      "image_file": "08_human_intent/08_human_intent_090.png",
+      "image_num": 790,
+      "case_id": 790,
+      "absent_object": "chalk"
+    },
+    {
+      "image_file": "08_human_intent/08_human_intent_091.jpg",
+      "image_num": 791,
+      "case_id": 791,
+      "absent_object": "camera or phone"
+    },
+    {
+      "image_file": "08_human_intent/08_human_intent_092.jpg",
+      "image_num": 792,
+      "case_id": 792,
+      "absent_object": "camera or phone"
+    },
+    {
+      "image_file": "08_human_intent/08_human_intent_093.jpg",
+      "image_num": 793,
+      "case_id": 793,
+      "absent_object": "camera or phone"
+    },
+    {
+      "image_file": "08_human_intent/08_human_intent_094.jpg",
+      "image_num": 794,
+      "case_id": 794,
+      "absent_object": "camera or phone"
+    },
+    {
+      "image_file": "08_human_intent/08_human_intent_095.jpg",
+      "image_num": 795,
+      "case_id": 795,
+      "absent_object": "camera or phone"
+    },
+    {
+      "image_file": "08_human_intent/08_human_intent_096.jpg",
+      "image_num": 796,
+      "case_id": 796,
+      "absent_object": "camera or phone"
+    },
+    {
+      "image_file": "08_human_intent/08_human_intent_097.jpg",
+      "image_num": 797,
+      "case_id": 797,
+      "absent_object": "camera or phone"
+    },
+    {
+      "image_file": "08_human_intent/08_human_intent_098.jpg",
+      "image_num": 798,
+      "case_id": 798,
+      "absent_object": "camera or phone"
+    },
+    {
+      "image_file": "08_human_intent/08_human_intent_099.jpg",
+      "image_num": 799,
+      "case_id": 799,
+      "absent_object": "camera or phone"
+    },
+    {
+      "image_file": "08_human_intent/08_human_intent_100.jpg",
+      "image_num": 800,
+      "case_id": 800,
+      "absent_object": "camera or phone"
+    }
+  ]
+}

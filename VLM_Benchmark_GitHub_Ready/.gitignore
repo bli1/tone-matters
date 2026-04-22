@@ -1,0 +1,23 @@
+# Python/cache
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# OS/editor
+.DS_Store
+.vscode/
+.idea/
+
+# Runtime artifacts
+*.log
+*.pid
+*.tmp
+nohup.out
+
+# Local model/cache paths
+models/
+hf_cache/
+.cache/
+
+# Optional: uncomment if pushing without Git LFS
+# dataset/Final_Dataset/
